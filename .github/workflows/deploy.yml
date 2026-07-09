@@ -39,15 +39,11 @@ jobs:
           full_commit_message: ${{ github.event.head_commit.message }}
 
       - name: Deploy to Oracle VM (via Cloudflare Tunnel)
-        env:
-          ORACLE_SSH_KEY_B64: ${{ secrets.ORACLE_SSH_KEY_B64 }}
-          ORACLE_KNOWN_HOSTS: ${{ secrets.ORACLE_KNOWN_HOSTS }}
         run: |
           mkdir -p ~/.ssh
-          echo "$ORACLE_SSH_KEY_B64" | base64 -d > ~/.ssh/id_rsa
+          cat <<< "${{ secrets.ORACLE_SSH_KEY_B64 }}" | base64 -d > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          echo "$ORACLE_KNOWN_HOSTS" > ~/.ssh/known_hosts
-          chmod 644 ~/.ssh/known_hosts
+          ssh-keyscan 130.61.138.38 >> ~/.ssh/known_hosts 2>/dev/null
 
       - name: Rsync to Oracle
         run: |
