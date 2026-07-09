@@ -24,14 +24,6 @@ jobs:
           node-version: 20
           cache: npm
 
-      - name: Cache dependencies
-        uses: actions/cache@v4
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-hexo-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-hexo-
-
       - name: Install dependencies
         run: npm ci
 
