@@ -728,7 +728,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: K2-Web 工程知識博客，專注標準解讀、技術實踐與工程方法記錄
+    description: 工程知識分享平台 · 標準解讀與技術實踐
     name_link: /
 
   card_announcement:
@@ -989,13 +989,13 @@ home_top:
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
-  default_descr: K2-Web 工程知識博客，記錄標準解讀與技術實踐
+  default_descr: 工程知識分享平台，記錄標準解讀與技術實踐
   swiper:
     enable: false
   banner:
     tips: K2-Web 工程博客
     title: 標準解讀與技術實踐
-    image:
+    image: /img/logo.png
     link: https://github.com/Wilsony2k/k2web-blog
 
 # 朋友圈配置
