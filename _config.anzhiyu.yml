@@ -995,7 +995,7 @@ home_top:
   banner:
     tips: K2-Web 工程博客
     title: 標準解讀與技術實踐
-    image: /img/logo.png
+    image: https://blog.85200852.xyz/img/logo.png
     link: https://github.com/Wilsony2k/k2web-blog
 
 # 朋友圈配置
