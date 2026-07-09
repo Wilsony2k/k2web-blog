@@ -37,3 +37,16 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           full_commit_message: ${{ github.event.head_commit.message }}
+
+      - name: Deploy to Oracle VM (via Cloudflare Tunnel)
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.ORACLE_SSH_KEY }}
+          known_hosts: ${{ secrets.ORACLE_KNOWN_HOSTS }}
+
+      - name: Rsync to Oracle
+        run: |
+          rsync -avz --delete \
+            -e "ssh -o StrictHostKeyChecking=no" \
+            ./public/ \
+            ubuntu@130.61.138.38:/var/www/blog/
