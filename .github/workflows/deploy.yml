@@ -40,17 +40,14 @@ jobs:
 
       - name: Deploy to Oracle VM (via Cloudflare Tunnel)
         env:
-          ORACLE_SSH_KEY: ${{ secrets.ORACLE_SSH_KEY }}
+          ORACLE_SSH_KEY_B64: ${{ secrets.ORACLE_SSH_KEY_B64 }}
           ORACLE_KNOWN_HOSTS: ${{ secrets.ORACLE_KNOWN_HOSTS }}
         run: |
-          # Write SSH key with proper format
           mkdir -p ~/.ssh
-          echo "$ORACLE_SSH_KEY" > ~/.ssh/id_rsa
+          echo "$ORACLE_SSH_KEY_B64" | base64 -d > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           echo "$ORACLE_KNOWN_HOSTS" > ~/.ssh/known_hosts
           chmod 644 ~/.ssh/known_hosts
-          echo "SSH key installed successfully"
-          ssh-keygen -l -f ~/.ssh/id_rsa
 
       - name: Rsync to Oracle
         run: |
