@@ -126,11 +126,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: https://k2image.85200852.xyz/blog-assets/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: /favicon.ico
+  img: /img/logo.png
   effect: false
 
 # Disable all banner image
@@ -995,7 +995,7 @@ home_top:
   banner:
     tips: K2-Web 工程博客
     title: 標準解讀與技術實踐
-    image: https://blog.85200852.xyz/img/logo.png
+    image: /img/logo.png
     link: https://github.com/Wilsony2k/k2web-blog
 
 # 朋友圈配置
