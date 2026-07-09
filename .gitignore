@@ -1,0 +1,10 @@
+node_modules/
+.public/
+public/
+.deploy_git/
+npm-debug.log
+yarn-error.log
+.DS_Store
+*.swp
+*.swo
+._*
