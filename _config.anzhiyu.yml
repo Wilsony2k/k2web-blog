@@ -1,24 +1,18 @@
 menu:
-  # 文章:
-  #   隧道: /archives/ || anzhiyu-icon-box-archive
-  #   分类: /categories/ || anzhiyu-icon-shapes
-  #   标签: /tags/ || anzhiyu-icon-tags
-
-  # 友链:
-  #   友人帐: /link/ || anzhiyu-icon-link
-  #   朋友圈: /fcircle/ || anzhiyu-icon-artstation
-  #   留言板: /comments/ || anzhiyu-icon-envelope
-
-  # 我的:
-  #   音乐馆: /music/ || anzhiyu-icon-music
-  #   追番页: /bangumis/ || anzhiyu-icon-bilibili
-  #   相册集: /album/ || anzhiyu-icon-images
-  #   小空调: /air-conditioner/ || anzhiyu-icon-fan
-
-  # 关于:
-  #   关于本人: /about/ || anzhiyu-icon-paper-plane
-  #   闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-  #   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+  工程安全:
+    安全管理概覽: /categories/工程安全/ || anzhiyu-icon-shield
+    安全檢查卡: /categories/工程安全/ || anzhiyu-icon-clipboard-check
+    事故報告: /categories/工程安全/ || anzhiyu-icon-file-lines
+    風險評估: /categories/工程安全/ || anzhiyu-icon-chart-line
+    安全教育: /categories/工程安全/ || anzhiyu-icon-graduation-cap
+  技術實踐:
+    文章歸檔: /archives/ || anzhiyu-icon-box-archive
+    分類: /categories/ || anzhiyu-icon-shapes
+    標籤: /tags/ || anzhiyu-icon-tags
+  開源探索:
+    GitHub 熱門: /categories/開源探索/ || anzhiyu-icon-code-branch
+  關於:
+    關於本站: /about/ || anzhiyu-icon-paper-plane
 
 # nav相关配置
 nav:

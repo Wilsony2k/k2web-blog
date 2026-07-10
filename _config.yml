@@ -66,6 +66,12 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  工程安全: engineering-safety
+  標準解讀: standards
+  技術實踐: tech-practice
+  知識管理: knowledge-management
+  開源探索: open-source
+  專案管理: project-management
 tag_map:
 
 # Metadata elements

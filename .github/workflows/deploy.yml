@@ -33,7 +33,7 @@ jobs:
             -e 's|欢迎使用安知鱼|欢迎使用Wilsonc|g' \
             -e 's|By 安知鱼 V|By Wilsonc V|g' \
             -e 's|Powered by 安知鱼|Powered by Wilsonc|g' \
-            themes/anzhiyu/layout/includes/anzhiyu/log-js.pug
+            node_modules/hexo-theme-anzhiyu/layout/includes/anzhiyu/log-js.pug
 
       - name: Build static site
         run: npx hexo generate
