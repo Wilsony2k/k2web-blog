@@ -434,8 +434,8 @@ footer:
         shields: https://img.shields.io/badge/Frame-Hexo-0e83cd?style=flat&logo=Hexo #徽标API
         message: 博客框架为Hexo_v5.4.0 #徽标提示语
       - link: https://github.com/Wilsony2k/k2web-blog
-        shields: https://img.shields.io/badge/Theme-AnZhiYu-2E67D3.svg
-        message: 本站使用AnZhiYu主题
+        shields: https://img.shields.io/badge/Theme-Wilsonc-2E67D3.svg
+        message: 本站使用Wilsonc主题
   socialBar:
     enable: false
     centerImg:
@@ -1112,7 +1112,7 @@ greetingBox:
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: false
-  gptName: AnZhiYu
+  gptName: Wilsonc
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink:
