@@ -27,6 +27,14 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
+      - name: Patch theme branding
+        run: |
+          sed -i \
+            -e 's|欢迎使用安知鱼|欢迎使用Wilsonc|g' \
+            -e 's|By 安知鱼 V|By Wilsonc V|g' \
+            -e 's|Powered by 安知鱼|Powered by Wilsonc|g' \
+            node_modules/hexo-theme-anzhiyu/layout/includes/anzhiyu/log-js.pug
+
       - name: Build static site
         run: npx hexo generate
 
