@@ -2,7 +2,7 @@
 title: Code of Practice for Safe Use of Mobile Cranes
 date: '2027-06-04 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 工作守則
 tags:
 - 工作守則

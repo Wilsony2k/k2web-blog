@@ -2,7 +2,7 @@
 title: Guidance Notes on Safety at Work - Use and Maintenance of Rechargeable Battery
 date: '2027-06-20 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

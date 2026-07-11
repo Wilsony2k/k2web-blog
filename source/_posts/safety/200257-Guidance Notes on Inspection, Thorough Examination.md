@@ -3,7 +3,7 @@ title: Guidance Notes on Inspection, Thorough Examination and Testing of Lifting
   and Lifting Gear
 date: '2027-06-12 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

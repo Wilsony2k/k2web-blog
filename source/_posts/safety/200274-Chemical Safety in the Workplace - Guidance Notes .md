@@ -3,7 +3,7 @@ title: Chemical Safety in the Workplace - Guidance Notes on Personal Protective 
   (PPE) for Use and Handling of Chemicals
 date: '2027-06-29 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

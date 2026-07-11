@@ -3,7 +3,7 @@ title: A Guide to the Provisions for Safe Use of Hoists under the Construction S
   (Safety) Regulations
 date: '2027-05-17 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

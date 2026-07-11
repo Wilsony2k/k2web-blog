@@ -3,7 +3,7 @@ title: TECHNICAL MEMORANDUM ON NOISE FROM CONSTRUCTION WORK OTHER THAN PERCUSSIV
   PILING
 date: '2026-09-18 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 環保署通告
 tags:
 - Noise Control

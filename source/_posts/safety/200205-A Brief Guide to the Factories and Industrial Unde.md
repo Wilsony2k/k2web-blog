@@ -3,7 +3,7 @@ title: A Brief Guide to the Factories and Industrial Undertakings (Confined Spac
   Regulation
 date: '2027-04-21 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

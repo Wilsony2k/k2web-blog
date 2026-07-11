@@ -3,7 +3,7 @@ title: Guidance Notes on Safety at Work for Demounting, Mounting and Inflation o
   Tyres of Heavy Mechanical Vehicles
 date: '2027-06-23 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

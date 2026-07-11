@@ -3,7 +3,7 @@ title: 48th RSS S&E Internal Communication Meeting - Incident Investigation Repo
   意外事故調查報告
 date: '2026-07-30 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全會議
 tags:
 - Fire Safety

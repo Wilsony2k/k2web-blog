@@ -3,7 +3,7 @@ title: A Pictorial Guide to Factories and Industrial Undertakings (Noise at Work
   Regulation
 date: '2027-05-18 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

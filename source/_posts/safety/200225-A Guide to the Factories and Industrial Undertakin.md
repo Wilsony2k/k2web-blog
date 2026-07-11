@@ -3,7 +3,7 @@ title: A Guide to the Factories and Industrial Undertakings (Woodworking Machine
   Regulations
 date: '2027-05-11 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

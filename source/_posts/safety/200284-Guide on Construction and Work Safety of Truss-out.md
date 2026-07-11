@@ -2,7 +2,7 @@
 title: Guide on Construction and Work Safety of Truss-out Bamboo Scaffolds
 date: '2027-07-09 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

@@ -3,7 +3,7 @@ title: Occupational Safety for Repair, Maintenance, Alteration and Addition Work
   - Safety Hints for Owners' Corporations
 date: '2027-09-17 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

@@ -2,7 +2,7 @@
 title: Safety of Hot Work Procedure
 date: '2026-09-22 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 培訓教材
 tags:
 - Hot Work

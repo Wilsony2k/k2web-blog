@@ -2,7 +2,7 @@
 title: Safety Hints on Renovation Work
 date: '2027-09-06 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 未分類
 tags:
 - 其他指南

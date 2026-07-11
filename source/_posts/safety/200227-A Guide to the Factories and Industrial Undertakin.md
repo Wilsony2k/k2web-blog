@@ -3,7 +3,7 @@ title: A Guide to the Factories and Industrial Undertakings Ordinance (Section 6
   - General Duties of Persons Employed
 date: '2027-05-13 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

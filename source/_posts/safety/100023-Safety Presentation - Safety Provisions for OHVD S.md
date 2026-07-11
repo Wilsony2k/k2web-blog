@@ -3,7 +3,7 @@ title: Safety Presentation - Safety Provisions for OHVD Slab Installation (Subse
   Tunnel Section) Candice Kong
 date: '2026-09-06 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全簡報
 tags:
 - Lifting Operation

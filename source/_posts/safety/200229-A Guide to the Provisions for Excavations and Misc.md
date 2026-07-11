@@ -3,7 +3,7 @@ title: A Guide to the Provisions for Excavations and Miscellaneous Safety under 
   Construction Sites (Safety) Regulations
 date: '2027-05-15 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

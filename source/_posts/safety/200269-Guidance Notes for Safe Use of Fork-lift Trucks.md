@@ -2,7 +2,7 @@
 title: Guidance Notes for Safe Use of Fork-lift Trucks
 date: '2027-06-24 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

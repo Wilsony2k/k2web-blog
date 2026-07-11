@@ -2,7 +2,7 @@
 title: Safety Presentation - Heat stroke Louis Ngan
 date: '2026-08-29 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全簡報
 tags:
 - Heat Stroke at Work

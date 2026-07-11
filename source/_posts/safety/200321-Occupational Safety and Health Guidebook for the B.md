@@ -2,7 +2,7 @@
 title: Occupational Safety and Health Guidebook for the Banking and Finance Industry
 date: '2027-08-15 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

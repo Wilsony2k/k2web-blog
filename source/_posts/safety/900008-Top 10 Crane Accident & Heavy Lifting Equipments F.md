@@ -2,7 +2,7 @@
 title: Top 10 Crane Accident & Heavy Lifting Equipments Fails
 date: '2026-09-21 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 影片教材
 tags:
 - Lifting Operation

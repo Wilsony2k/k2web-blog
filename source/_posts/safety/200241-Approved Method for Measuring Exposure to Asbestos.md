@@ -2,7 +2,7 @@
 title: Approved Method for Measuring Exposure to Asbestos in Air [G.N. 964]
 date: '2027-05-27 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 工作守則
 tags:
 - 工作守則

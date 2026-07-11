@@ -3,7 +3,7 @@ title: A Guide to the Factories and Industrial Undertakings (Gas Welding and Fla
   Cutting) Regulation
 date: '2027-05-01 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

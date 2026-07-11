@@ -3,7 +3,7 @@ title: Occupational Safety and Health Management in Renovation and Maintenance W
   for the Property Management Industry
 date: '2027-08-16 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

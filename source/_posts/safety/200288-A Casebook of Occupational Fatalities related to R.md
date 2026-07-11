@@ -3,7 +3,7 @@ title: A Casebook of Occupational Fatalities related to Renovation and Maintenan
   Work
 date: '2027-07-13 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 未分類
 tags:
 - 其他指南

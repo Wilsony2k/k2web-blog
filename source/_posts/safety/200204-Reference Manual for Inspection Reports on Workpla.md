@@ -2,7 +2,7 @@
 title: Reference Manual for Inspection Reports on Workplaces
 date: '2027-04-20 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

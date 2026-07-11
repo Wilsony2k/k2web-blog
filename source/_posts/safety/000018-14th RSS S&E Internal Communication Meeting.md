@@ -2,7 +2,7 @@
 title: 14th RSS S&E Internal Communication Meeting
 date: '2026-06-19 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全會議
 tags:
 - Safety news sharing

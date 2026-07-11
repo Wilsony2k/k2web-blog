@@ -2,7 +2,7 @@
 title: 26th RSS S&E Internal Communication Meeting - BTP 13 LIVE Saving Rules 保命規條
 date: '2026-06-30 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全推廣
 tags:
 - Safety Engagement

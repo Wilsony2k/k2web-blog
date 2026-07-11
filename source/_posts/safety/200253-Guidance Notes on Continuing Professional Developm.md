@@ -3,7 +3,7 @@ title: Guidance Notes on Continuing Professional Development Programmes under th
   Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations
 date: '2027-06-08 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

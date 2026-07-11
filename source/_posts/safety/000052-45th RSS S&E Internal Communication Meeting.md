@@ -2,7 +2,7 @@
 title: 45th RSS S&E Internal Communication Meeting
 date: '2026-07-23 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 影片教材
 tags:
 - Lifting Operation

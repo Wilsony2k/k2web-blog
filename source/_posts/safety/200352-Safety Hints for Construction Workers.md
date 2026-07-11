@@ -2,7 +2,7 @@
 title: Safety Hints for Construction Workers
 date: '2027-09-15 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 未分類
 tags:
 - 其他指南

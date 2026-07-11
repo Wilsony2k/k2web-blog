@@ -2,7 +2,7 @@
 title: 51st Monthly RSS Internal Communication Meeting - Guidance Notes on LALG
 date: '2026-08-05 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - Lifting Operation

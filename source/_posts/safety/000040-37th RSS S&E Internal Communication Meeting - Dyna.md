@@ -2,7 +2,7 @@
 title: 37th RSS S&E Internal Communication Meeting - Dynamic Risk Assessment
 date: '2026-07-11 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全會議
 tags:
 - Dynamic Risk Assessment -DRA

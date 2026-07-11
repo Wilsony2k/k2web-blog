@@ -2,7 +2,7 @@
 title: Safety and Health at Work in Small Retail Shops
 date: '2027-08-24 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

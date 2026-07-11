@@ -3,7 +3,7 @@ title: Reference Manual for Inspection Reports on Factories and Industrial Under
   (Other than Construction Sites)
 date: '2027-04-19 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

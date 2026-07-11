@@ -2,7 +2,7 @@
 title: A Safety Guide on Gate Work
 date: '2027-07-25 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

@@ -2,7 +2,7 @@
 title: Code of Practice  Safety and Health at Work for Gas Welding and Flame Cutting
 date: '2027-05-23 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 工作守則
 tags:
 - 工作守則

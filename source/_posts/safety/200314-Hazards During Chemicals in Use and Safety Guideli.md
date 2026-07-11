@@ -2,7 +2,7 @@
 title: Hazards During Chemicals in Use and Safety Guidelines
 date: '2027-08-08 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

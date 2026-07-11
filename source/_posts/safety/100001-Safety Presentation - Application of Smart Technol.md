@@ -3,7 +3,7 @@ title: Safety Presentation - Application of Smart Technologies in Enhancing Safe
   in Construction Site Emily Tang
 date: '2026-08-15 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全簡報
 tags:
 - Safety Innovation

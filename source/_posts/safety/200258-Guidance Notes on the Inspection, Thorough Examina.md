@@ -3,7 +3,7 @@ title: Guidance Notes on the Inspection, Thorough Examination and Testing of Sus
   Working Platforms
 date: '2027-06-13 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

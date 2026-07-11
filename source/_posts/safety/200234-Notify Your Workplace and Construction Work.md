@@ -2,7 +2,7 @@
 title: Notify Your Workplace and Construction Work
 date: '2027-05-20 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

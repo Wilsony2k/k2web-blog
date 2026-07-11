@@ -2,7 +2,7 @@
 title: Safety Measures for Use of Truss-out Bamboo Scaffold
 date: '2027-09-09 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 未分類
 tags:
 - 其他指南

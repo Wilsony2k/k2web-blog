@@ -2,7 +2,7 @@
 title: Code of Practice for Safety at Work (Lift and Escalator)
 date: '2027-06-01 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 工作守則
 tags:
 - 工作守則

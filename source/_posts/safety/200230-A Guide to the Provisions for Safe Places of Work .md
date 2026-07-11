@@ -3,7 +3,7 @@ title: A Guide to the Provisions for Safe Places of Work under Part VA of the Co
   Sites (Safety) Regulations
 date: '2027-05-16 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

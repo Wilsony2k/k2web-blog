@@ -3,7 +3,7 @@ title: Chemical Safety in the Workplace - Guidance Notes on Paint Spraying and R
   Coating Processes
 date: '2027-07-04 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

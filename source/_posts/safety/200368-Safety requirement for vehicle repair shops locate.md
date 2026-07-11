@@ -2,7 +2,7 @@
 title: Safety requirement for vehicle repair shops located in residential buildings
 date: '2027-10-01 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 海報告示
 tags:
 - 海報告示

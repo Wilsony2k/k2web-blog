@@ -2,7 +2,7 @@
 title: Safe Use of Material Hoist - Interlocking Device on Hoistway Gate
 date: '2027-08-22 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

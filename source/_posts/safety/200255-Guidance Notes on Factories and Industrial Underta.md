@@ -2,7 +2,7 @@
 title: Guidance Notes on Factories and Industrial Undertakings (Noise at Work) Regulation
 date: '2027-06-10 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

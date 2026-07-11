@@ -3,7 +3,7 @@ title: Guidance Notes on Safety at Work for Maintenance of Low Voltage Electrica
   Switchgears
 date: '2027-06-21 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

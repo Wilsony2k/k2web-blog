@@ -2,7 +2,7 @@
 title: Guidance NotesSafety at Work (Falsework - Prevention of Collapse)
 date: '2027-07-06 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全指引
 tags:
 - 安全指引

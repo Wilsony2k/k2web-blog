@@ -3,7 +3,7 @@ title: 52nd RSS S&E Internal Communication Meeting - Centralized Management Plat
   CMP
 date: '2026-08-12 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全獎項
 tags:
 - Safety Innovation

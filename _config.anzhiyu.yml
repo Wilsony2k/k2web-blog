@@ -1,15 +1,16 @@
 menu:
-  安全管理:
-    法例簡介: /categories/safety-management/法例簡介/ || anzhiyu-icon-book
-    工作守則: /categories/safety-management/工作守則/ || anzhiyu-icon-file-contract
-    安全指引: /categories/safety-management/安全指引/ || anzhiyu-icon-compass
-    其他指南: /categories/safety-management/其他指南/ || anzhiyu-icon-folder-open
-    海報告示: /categories/safety-management/海報告示/ || anzhiyu-icon-image
-    安全會議: /categories/safety-management/安全會議/ || anzhiyu-icon-people-group
-    安全簡報: /categories/safety-management/安全簡報/ || anzhiyu-icon-presentation
-    安全推廣: /categories/safety-management/安全推廣/ || anzhiyu-icon-rocket
-    未分類: /categories/safety-management/未分類/ || anzhiyu-icon-question
-    查看全部: /categories/safety-management/ || anzhiyu-icon-shield
+  工程安全:
+    法例簡介: /categories/engineering-safety/法例簡介/ || anzhiyu-icon-book
+    工作守則: /categories/engineering-safety/工作守則/ || anzhiyu-icon-file-contract
+    安全指引: /categories/engineering-safety/安全指引/ || anzhiyu-icon-compass
+    其他指南: /categories/engineering-safety/其他指南/ || anzhiyu-icon-folder-open
+    海報告示: /categories/engineering-safety/海報告示/ || anzhiyu-icon-image
+    安全會議: /categories/engineering-safety/安全會議/ || anzhiyu-icon-people-group
+    安全簡報: /categories/engineering-safety/安全簡報/ || anzhiyu-icon-presentation
+    安全推廣: /categories/engineering-safety/安全推廣/ || anzhiyu-icon-rocket
+    工程安全概覽: /categories/engineering-safety/工程安全概覽/ || anzhiyu-icon-eye
+    未分類: /categories/engineering-safety/未分類/ || anzhiyu-icon-question
+    查看全部: /categories/engineering-safety/ || anzhiyu-icon-shield
   技術實踐:
     文章歸檔: /archives/ || anzhiyu-icon-box-archive
     分類: /categories/ || anzhiyu-icon-shapes

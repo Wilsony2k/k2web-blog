@@ -2,7 +2,7 @@
 title: Safe Work in Confined Spaces
 date: '2027-08-23 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 其他指南
 tags:
 - 其他指南

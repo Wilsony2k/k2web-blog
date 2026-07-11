@@ -2,7 +2,7 @@
 title: TECHNICAL MEMORANDUM ON NOISE FROM PERCUSSIVE PILING
 date: '2026-09-19 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 環保署通告
 tags:
 - Noise Control

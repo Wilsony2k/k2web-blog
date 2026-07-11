@@ -3,7 +3,7 @@ title: Safety Presentation - Falling Objects and a Case Study on ongoing Constru
   Works
 date: '2026-08-26 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全簡報
 tags:
 - Falling Object

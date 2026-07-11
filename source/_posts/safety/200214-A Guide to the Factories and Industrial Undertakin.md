@@ -3,7 +3,7 @@ title: A Guide to the Factories and Industrial Undertakings (Fire Precautions in
   Workplaces) Regulations
 date: '2027-04-30 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

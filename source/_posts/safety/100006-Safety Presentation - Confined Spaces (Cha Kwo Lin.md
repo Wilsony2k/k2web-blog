@@ -3,7 +3,7 @@ title: Safety Presentation - Confined Spaces (Cha Kwo Ling Tunnel , Drill & Blas
   John
 date: '2026-08-20 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全簡報
 tags:
 - Confined Spaces 密閉空間

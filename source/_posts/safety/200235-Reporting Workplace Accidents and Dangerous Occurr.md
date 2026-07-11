@@ -2,7 +2,7 @@
 title: Reporting Workplace Accidents and Dangerous Occurrences
 date: '2027-05-21 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 法例簡介
 tags:
 - 法例簡介

@@ -3,7 +3,7 @@ title: Innovative solutions to improve monitoring safety in construction site An
   Lee
 date: '2026-09-13 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全簡報
 tags:
 - Safety Innovation

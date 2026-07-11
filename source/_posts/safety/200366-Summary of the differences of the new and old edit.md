@@ -3,7 +3,7 @@ title: Summary of the differences of the new and old editions of the Electric Sh
   notice
 date: '2027-09-29 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 海報告示
 tags:
 - 海報告示

@@ -2,7 +2,7 @@
 title: 53rd RSS S&E Internal Communication Meeting - Work for Industrial Diving
 date: '2026-08-13 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全會議
 tags:
 - Work for Industrial Diving

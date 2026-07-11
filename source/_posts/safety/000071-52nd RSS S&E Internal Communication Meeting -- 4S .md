@@ -2,7 +2,7 @@
 title: 52nd RSS S&E Internal Communication Meeting -- 4S Smart Site Safety System
 date: '2026-08-11 00:00:00'
 categories:
-- 安全管理
+- 工程安全
 - 安全會議
 tags:
 - Safety Innovation
