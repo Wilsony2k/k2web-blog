@@ -36,7 +36,12 @@ jobs:
             themes/anzhiyu/layout/includes/anzhiyu/log-js.pug
 
       - name: Build static site
+        env:
+          NODE_OPTIONS: "--max-old-space-size=8192"
         run: npx hexo generate
+
+      - name: Show public size
+        run: du -sh public/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

@@ -11,6 +11,10 @@ menu:
     工程安全概覽: /categories/engineering-safety/工程安全概覽/ || anzhiyu-icon-eye
     未分類: /categories/engineering-safety/未分類/ || anzhiyu-icon-question
     查看全部: /categories/engineering-safety/ || anzhiyu-icon-shield
+  標準規格:
+    GB: /categories/standard/GB/ || anzhiyu-icon-book
+    BS: /categories/standard/BS/ || anzhiyu-icon-book
+    查看全部: /categories/standard/ || anzhiyu-icon-book
   技術實踐:
     文章歸檔: /archives/ || anzhiyu-icon-box-archive
     分類: /categories/ || anzhiyu-icon-shapes
