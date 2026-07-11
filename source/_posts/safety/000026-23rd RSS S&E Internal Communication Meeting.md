@@ -3,7 +3,7 @@ title: 23rd RSS S&E Internal Communication Meeting
 date: '2026-06-27 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
 - Working at Height
 card_id: '000026'

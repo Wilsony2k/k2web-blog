@@ -4,7 +4,7 @@ title: Safety Presentation - Unforeseen Fire Incidents in Tunnels and Evacuation
 date: '2026-09-12 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Fire Safety
 card_id: '100029'

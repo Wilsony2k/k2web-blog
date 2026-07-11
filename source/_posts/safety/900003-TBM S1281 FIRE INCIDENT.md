@@ -3,7 +3,7 @@ title: TBM S1281 FIRE INCIDENT
 date: '2026-09-16 00:00:00'
 categories:
 - 安全管理
-- INCIDENTReport
+- 事故報告
 tags:
 - Fire Safety
 card_id: '900003'

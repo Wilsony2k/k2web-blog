@@ -3,9 +3,11 @@ title: 06th RSS S&E Internal Communication Meeting
 date: '2026-06-09 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
-- Lesson Learnt ; Temporary Work ; Collapse of a metal gate - fatal
+- Temporary Work
+- Collapse of a metal gate - fatal
+- Lesson Learnt
 card_id: 000008
 cover: /universe/Safety/Cover/safety_0008.jpg
 ---

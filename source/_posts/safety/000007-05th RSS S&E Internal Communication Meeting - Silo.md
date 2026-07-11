@@ -3,7 +3,7 @@ title: 05th RSS S&E Internal Communication Meeting - Silo Video
 date: '2026-06-08 00:00:00'
 categories:
 - 安全管理
-- MP4 ; Video
+- 影片教材
 tags:
 - TBM Silo
 card_id: '000007'

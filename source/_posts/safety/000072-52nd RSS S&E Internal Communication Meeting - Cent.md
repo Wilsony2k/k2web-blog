@@ -4,7 +4,7 @@ title: 52nd RSS S&E Internal Communication Meeting - Centralized Management Plat
 date: '2026-08-12 00:00:00'
 categories:
 - 安全管理
-- Safety Award
+- 安全獎項
 tags:
 - Safety Innovation
 card_id: '000072'

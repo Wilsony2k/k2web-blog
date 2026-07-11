@@ -4,9 +4,10 @@ title: 48th RSS S&E Internal Communication Meeting - Incident Investigation Repo
 date: '2026-07-30 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
-- Incident Report ; Fire Safety
+- Fire Safety
+- Incident Report
 card_id: 000059
 cover: /universe/Safety/Cover/safety_0059.jpg
 ---

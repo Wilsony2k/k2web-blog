@@ -3,9 +3,9 @@ title: Safety requirement for vehicle repair shops located in residential buildi
 date: '2027-10-01 00:00:00'
 categories:
 - 安全管理
-- 海報 / 告示
+- 海報告示
 tags:
-- 'Part E : Posters / Notices | 海報 / 告示'
+- 海報告示
 card_id: '200368'
 cover: /universe/Safety/Cover/Labour_Dept/joint_notice_vehicle_repair_workshop.jpg
 ---

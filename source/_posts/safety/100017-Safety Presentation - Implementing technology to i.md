@@ -4,7 +4,7 @@ title: Safety Presentation - Implementing technology to improve safety in constr
 date: '2026-08-31 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Safety Innovation
 card_id: '100017'

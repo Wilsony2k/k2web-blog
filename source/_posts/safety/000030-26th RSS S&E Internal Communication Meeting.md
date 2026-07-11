@@ -3,7 +3,7 @@ title: 26th RSS S&E Internal Communication Meeting
 date: '2026-07-01 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
 - Mobile Plant Management
 card_id: '000030'

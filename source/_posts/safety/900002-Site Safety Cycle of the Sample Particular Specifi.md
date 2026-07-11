@@ -4,7 +4,7 @@ title: Site Safety Cycle of the Sample Particular Specifications ; Record of Haz
 date: '2026-09-15 00:00:00'
 categories:
 - 安全管理
-- CEDD MEMO
+- 內部備忘
 tags:
 - Site Safety Cycle
 card_id: '900002'

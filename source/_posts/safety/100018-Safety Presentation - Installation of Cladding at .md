@@ -3,9 +3,10 @@ title: Safety Presentation - Installation of Cladding at Footbridge FB02 Chris L
 date: '2026-09-01 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
-- Working at Height ; Mobile Elevating Work Platform (MEWP)
+- Mobile Elevating Work Platform (MEWP)
+- Working at Height
 card_id: '100018'
 cover: /universe/Safety/Cover/safety_1018.jpg
 ---

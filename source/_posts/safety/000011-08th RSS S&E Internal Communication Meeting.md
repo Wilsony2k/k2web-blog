@@ -3,7 +3,7 @@ title: 08th RSS S&E Internal Communication Meeting
 date: '2026-06-12 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
 - Lesson Learnt - Fatal Zone
 card_id: '000011'

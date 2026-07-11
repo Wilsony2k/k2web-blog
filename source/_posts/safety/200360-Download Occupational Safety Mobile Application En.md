@@ -3,9 +3,9 @@ title: Download Occupational Safety Mobile Application Enhance Work Safety Aware
 date: '2027-09-23 00:00:00'
 categories:
 - 安全管理
-- 海報 / 告示
+- 海報告示
 tags:
-- 'Part E : Posters / Notices | 海報 / 告示'
+- 海報告示
 card_id: '200360'
 cover: /universe/Safety/Cover/Labour_Dept/WSA_TC_Eng.jpg
 ---

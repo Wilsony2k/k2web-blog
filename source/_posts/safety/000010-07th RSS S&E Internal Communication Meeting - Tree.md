@@ -3,7 +3,7 @@ title: 07th RSS S&E Internal Communication Meeting - Tree
 date: '2026-06-11 00:00:00'
 categories:
 - 安全管理
-- MP4 ; Video
+- 影片教材
 tags:
 - Tree
 card_id: '000010'

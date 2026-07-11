@@ -3,9 +3,9 @@ title: Approved Method for Measuring Exposure to Asbestos in Air [G.N. 964]
 date: '2027-05-27 00:00:00'
 categories:
 - 安全管理
-- 工作守則 | CoP
+- 工作守則
 tags:
-- 'Part B : Codes of Practice | 工作守則 | CoP'
+- 工作守則
 card_id: '200241'
 cover: /universe/Safety/Cover/Labour_Dept/approved_method_asbestos.jpg
 ---

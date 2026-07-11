@@ -4,7 +4,7 @@ title: Safety Presentation - Application of Smart Technologies in Enhancing Safe
 date: '2026-08-15 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Safety Innovation
 card_id: '100001'

@@ -4,7 +4,7 @@ title: Safety Presentation - Excavation and Underground Utilities Safety Wong Ts
 date: '2026-08-24 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Underground Utilities Safety
 card_id: '100010'

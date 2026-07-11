@@ -5,7 +5,7 @@ categories:
 - 安全管理
 - 法例簡介
 tags:
-- 'Part A: Guides to Legislation | 法例簡介'
+- 法例簡介
 card_id: '200206'
 cover: /universe/Safety/Cover/Labour_Dept/OSHO.jpg
 ---

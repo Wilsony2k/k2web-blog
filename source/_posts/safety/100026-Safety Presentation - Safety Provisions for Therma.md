@@ -4,7 +4,7 @@ title: Safety Presentation - Safety Provisions for Thermal Barrier Installation 
 date: '2026-09-09 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Work at height
 card_id: '100026'

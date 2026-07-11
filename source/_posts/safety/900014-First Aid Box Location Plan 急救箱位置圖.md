@@ -3,7 +3,7 @@ title: First Aid Box Location Plan 急救箱位置圖
 date: '2026-09-27 00:00:00'
 categories:
 - 安全管理
-- Case study
+- 個案研究
 tags:
 - First Aid
 card_id: '900014'

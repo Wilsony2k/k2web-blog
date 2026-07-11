@@ -6,7 +6,7 @@ categories:
 - 安全管理
 - 法例簡介
 tags:
-- 'Part A: Guides to Legislation | 法例簡介'
+- 法例簡介
 card_id: '200222'
 cover: /universe/Safety/Cover/Labour_Dept/SOSSR_E.jpg
 ---

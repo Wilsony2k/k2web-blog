@@ -4,9 +4,9 @@ title: Occupational Safety and Health Management in Renovation and Maintenance W
 date: '2027-08-16 00:00:00'
 categories:
 - 安全管理
-- 其他安全指南
+- 其他指南
 tags:
-- 'Part D : Other Guidebooks | 其他安全指南'
+- 其他指南
 card_id: '200322'
 cover: /universe/Safety/Cover/Labour_Dept/pm_renovation.jpg
 ---

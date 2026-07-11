@@ -3,9 +3,9 @@ title: Code of Practice for Metal Scaffolding Safety
 date: '2027-06-02 00:00:00'
 categories:
 - 安全管理
-- 工作守則 | CoP
+- 工作守則
 tags:
-- 'Part B : Codes of Practice | 工作守則 | CoP'
+- 工作守則
 card_id: '200247'
 cover: /universe/Safety/Cover/Labour_Dept/mss.jpg
 ---

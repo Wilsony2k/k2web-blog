@@ -3,9 +3,9 @@ title: Code of Practice for Safety at Work (Lift and Escalator)
 date: '2027-06-01 00:00:00'
 categories:
 - 安全管理
-- 工作守則 | CoP
+- 工作守則
 tags:
-- 'Part B : Codes of Practice | 工作守則 | CoP'
+- 工作守則
 card_id: '200246'
 cover: /universe/Safety/Cover/Labour_Dept/lift.jpg
 ---

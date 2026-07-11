@@ -4,7 +4,7 @@ title: TECHNICAL MEMORANDUM ON NOISE FROM CONSTRUCTION WORK OTHER THAN PERCUSSIV
 date: '2026-09-18 00:00:00'
 categories:
 - 安全管理
-- EPD
+- 環保署通告
 tags:
 - Noise Control
 card_id: '900005'

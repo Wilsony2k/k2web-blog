@@ -4,7 +4,7 @@ title: Safety Presentation - Falling Objects and a Case Study on ongoing Constru
 date: '2026-08-26 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Falling Object
 card_id: '100012'

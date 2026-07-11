@@ -6,7 +6,7 @@ categories:
 - 安全管理
 - 安全指引
 tags:
-- 'Part C : Guidance Notes | 安全指引'
+- 安全指引
 card_id: '200274'
 cover: /universe/Safety/Cover/Labour_Dept/equipment.jpg
 ---

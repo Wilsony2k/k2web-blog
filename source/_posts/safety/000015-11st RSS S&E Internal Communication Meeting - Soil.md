@@ -3,7 +3,7 @@ title: 11st RSS S&E Internal Communication Meeting - Soil Disposal
 date: '2026-06-16 00:00:00'
 categories:
 - 安全管理
-- EPD
+- 環保署通告
 tags:
 - Disposal Soil
 card_id: '000015'

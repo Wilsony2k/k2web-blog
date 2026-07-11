@@ -3,7 +3,7 @@ title: Safety Presentation - Falsework Management and Safety Gordon Wong
 date: '2026-08-27 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
 - Temporary Works - 臨時工程
 card_id: '100013'

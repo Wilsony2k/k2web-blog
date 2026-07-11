@@ -3,9 +3,9 @@ title: Safety Hints for Demolition of Unauthorized Building Works
 date: '2027-09-03 00:00:00'
 categories:
 - 安全管理
-- 其他安全指南
+- 其他指南
 tags:
-- 'Part D : Other Guidebooks | 其他安全指南'
+- 其他指南
 card_id: '200340'
 cover: /universe/Safety/Cover/Labour_Dept/iUBW.jpg
 ---

@@ -5,7 +5,8 @@ categories:
 - 安全管理
 - 未分類
 tags:
-- Lesson Learnt- Tower Crane ; Near Miss
+- Lesson Learnt- Tower Crane
+- Near Miss
 card_id: 000009
 cover: /universe/Safety/Cover/safety_0009.jpg
 ---

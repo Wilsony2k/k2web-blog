@@ -3,7 +3,7 @@ title: CHECKLIST FOR LIFTING OPERATION - SF
 date: '2026-09-25 00:00:00'
 categories:
 - 安全管理
-- Work Permit / Checklist
+- 工作許可證
 tags:
 - Lifting Operation
 card_id: '900012'

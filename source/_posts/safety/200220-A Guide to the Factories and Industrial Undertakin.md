@@ -5,7 +5,7 @@ categories:
 - 安全管理
 - 法例簡介
 tags:
-- 'Part A: Guides to Legislation | 法例簡介'
+- 法例簡介
 card_id: '200220'
 cover: /universe/Safety/Cover/Labour_Dept/PE.jpg
 ---

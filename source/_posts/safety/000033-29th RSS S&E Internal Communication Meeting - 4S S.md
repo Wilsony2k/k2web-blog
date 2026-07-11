@@ -3,7 +3,7 @@ title: 29th RSS S&E Internal Communication Meeting - 4S Smart Site Safety System
 date: '2026-07-04 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
 - Safety Innovation
 card_id: '000033'

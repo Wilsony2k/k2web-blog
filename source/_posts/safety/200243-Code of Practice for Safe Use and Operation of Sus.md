@@ -3,9 +3,9 @@ title: Code of Practice for Safe Use and Operation of Suspended Working Platform
 date: '2027-05-29 00:00:00'
 categories:
 - 安全管理
-- 工作守則 | CoP
+- 工作守則
 tags:
-- 'Part B : Codes of Practice | 工作守則 | CoP'
+- 工作守則
 card_id: '200243'
 cover: /universe/Safety/Cover/Labour_Dept/platform.jpg
 ---

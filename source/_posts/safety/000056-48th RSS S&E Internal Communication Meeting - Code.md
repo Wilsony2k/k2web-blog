@@ -4,7 +4,7 @@ title: '48th RSS S&E Internal Communication Meeting - Code of Practice: Safety a
 date: '2026-07-27 00:00:00'
 categories:
 - 安全管理
-- Safety COP
+- 工作守則
 tags:
 - Hot Work
 card_id: '000056'

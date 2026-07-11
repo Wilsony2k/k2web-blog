@@ -4,9 +4,9 @@ title: Complying with Occupational Safety and Health Legislation is a Shared Obl
 date: '2027-09-25 00:00:00'
 categories:
 - 安全管理
-- 海報 / 告示
+- 海報告示
 tags:
-- 'Part E : Posters / Notices | 海報 / 告示'
+- 海報告示
 card_id: '200362'
 cover: /universe/Safety/Cover/Labour_Dept/Increase_of_Penalties_of_OSH_Offences_TC_ENG.jpg
 ---

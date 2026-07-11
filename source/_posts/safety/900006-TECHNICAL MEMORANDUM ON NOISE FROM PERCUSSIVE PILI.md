@@ -3,7 +3,7 @@ title: TECHNICAL MEMORANDUM ON NOISE FROM PERCUSSIVE PILING
 date: '2026-09-19 00:00:00'
 categories:
 - 安全管理
-- EPD
+- 環保署通告
 tags:
 - Noise Control
 card_id: '900006'

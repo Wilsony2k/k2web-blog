@@ -4,9 +4,13 @@ title: Safety Presentation - Excavation and Lateral Support (ELS) Works Kuok Chu
 date: '2026-08-23 00:00:00'
 categories:
 - 安全管理
-- ARE Presentation
+- 安全簡報
 tags:
-- Lifting Operation ; ELS ; Hot Work ; Temporary Work ; IDC
+- Lifting Operation
+- Hot Work
+- ELS
+- IDC
+- Temporary Work
 card_id: '100009'
 cover: /universe/Safety/Cover/safety_1009.jpg
 ---

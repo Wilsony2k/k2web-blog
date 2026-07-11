@@ -4,9 +4,9 @@ title: Occupational Safety for Repair, Maintenance, Alteration and Addition Work
 date: '2027-09-17 00:00:00'
 categories:
 - 安全管理
-- 其他安全指南
+- 其他指南
 tags:
-- 'Part D : Other Guidebooks | 其他安全指南'
+- 其他指南
 card_id: '200354'
 cover: /universe/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_OCs_en.jpg
 ---

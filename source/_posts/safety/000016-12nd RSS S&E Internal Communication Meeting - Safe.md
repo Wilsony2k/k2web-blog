@@ -3,7 +3,7 @@ title: 12nd RSS S&E Internal Communication Meeting - Safety Deficiencies
 date: '2026-06-17 00:00:00'
 categories:
 - 安全管理
-- Communication Meeting
+- 安全會議
 tags:
 - Lesson Learnt - Serious Accident
 card_id: '000016'
