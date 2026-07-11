@@ -15,6 +15,14 @@ menu:
     GB: /categories/standard/GB/ || anzhiyu-icon-book
     BS: /categories/standard/BS/ || anzhiyu-icon-book
     查看全部: /categories/standard/ || anzhiyu-icon-book
+  施工做法:
+    MSF: /categories/construction-method/MSF/ || anzhiyu-icon-file-pdf
+    Method: /categories/construction-method/Method/ || anzhiyu-icon-file-pdf
+    查看全部: /categories/construction-method/ || anzhiyu-icon-file-pdf
+  政府圖紙:
+    Gov_Building: /categories/gov-drawings/Gov_Building/ || anzhiyu-icon-draw-polygon
+    Gov_Civil: /categories/gov-drawings/Gov_Civil/ || anzhiyu-icon-draw-polygon
+    查看全部: /categories/gov-drawings/ || anzhiyu-icon-draw-polygon
   技術實踐:
     文章歸檔: /archives/ || anzhiyu-icon-box-archive
     分類: /categories/ || anzhiyu-icon-shapes

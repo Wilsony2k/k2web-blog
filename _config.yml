@@ -68,6 +68,8 @@ default_category: uncategorized
 category_map:
   工程安全: engineering-safety
   標準規格: standard
+  施工做法: construction-method
+  政府圖紙: gov-drawings
   標準解讀: standards
   技術實踐: tech-practice
   知識管理: knowledge-management
