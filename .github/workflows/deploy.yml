@@ -9,47 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  build-and-deploy:
+  deploy-to-oracle:
     runs-on: ubuntu-24.04
     steps:
-      - name: Checkout
+      - name: Checkout published content
         uses: actions/checkout@v4
         with:
-          submodules: true
-          fetch-depth: 0
+          ref: gh-pages
+          fetch-depth: 1
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
-
-      - name: Install dependencies
-        run: npm install --legacy-peer-deps
-
-      - name: Patch theme branding
-        run: |
-          sed -i \
-            -e 's|欢迎使用安知鱼|欢迎使用Wilsonc|g' \
-            -e 's|By 安知鱼 V|By Wilsonc V|g' \
-            -e 's|Powered by 安知鱼|Powered by Wilsonc|g' \
-            themes/anzhiyu/layout/includes/anzhiyu/log-js.pug
-
-      - name: Build static site
-        env:
-          NODE_OPTIONS: "--max-old-space-size=8192"
-        run: npx hexo generate
-
-      - name: Show public size
-        run: du -sh public/
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          full_commit_message: ${{ github.event.head_commit.message }}
+      - name: Show size
+        run: du -sh .
 
       - name: Deploy to Oracle VM (via Cloudflare Tunnel)
         run: |
@@ -62,5 +32,5 @@ jobs:
         run: |
           rsync -avz --delete \
             -e "ssh -o StrictHostKeyChecking=no" \
-            ./public/ \
+            ./ \
             ubuntu@130.61.138.38:/var/www/blog/
