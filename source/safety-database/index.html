@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>安全資料庫 · 樣板</title>
+<style>
+/* ========== Theme Tokens ========== */
+:root {
+  --primary: #1a5f7a;
+  --primary-light: #2a7f9a;
+  --primary-dark: #0f4055;
+  --accent: #e8a838;
+  --bg: #f4f5f7;
+  --card-bg: #ffffff;
+  --text: #1a2332;
+  --text-light: #5a6a7a;
+  --border: #e2e5ea;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --shadow: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-hover: 0 6px 20px rgba(0,0,0,0.12);
+  --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* ========== Header ========== */
+.page-header {
+  background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+  color: #fff;
+  padding: 2.5rem 2rem;
+  text-align: center;
+}
+.page-header h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+.page-header p {
+  opacity: 0.85;
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+.page-header .badge {
+  display: inline-block;
+  background: var(--accent);
+  color: var(--primary-dark);
+  padding: 2px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0.75rem;
+}
+
+/* ========== Filters ========== */
+.filter-section {
+  max-width: 1200px;
+  margin: 1.5rem auto 0;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+.filter-row {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.search-box {
+  flex: 1;
+  min-width: 220px;
+  padding: 0.7rem 1rem;
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  transition: border-color 0.2s;
+  outline: none;
+}
+.search-box:focus { border-color: var(--primary); }
+.filter-tags {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+.filter-tag {
+  padding: 0.35rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  background: var(--card-bg);
+  color: var(--text-light);
+  user-select: none;
+}
+.filter-tag:hover { border-color: var(--primary-light); color: var(--primary); }
+.filter-tag.active {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
+/* ========== Results Meta ========== */
+.results-meta {
+  max-width: 1200px;
+  margin: 0.5rem auto 0;
+  padding: 0 1.5rem;
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+
+/* ========== Card Grid ========== */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.2rem;
+  max-width: 1200px;
+  margin: 1rem auto 2rem;
+  padding: 0 1.5rem;
+}
+
+/* ========== Card ========== */
+.card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+.card-cover {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  background: var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  color: var(--text-light);
+}
+.card-body { padding: 1rem 1.1rem 1.1rem; flex: 1; display: flex; flex-direction: column; }
+.card-category {
+  display: inline-block;
+  background: var(--primary);
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-id {
+  font-size: 0.7rem;
+  color: var(--text-light);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.card-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-desc {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  margin-bottom: 0.8rem;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-tags {
+  display: flex;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.8rem;
+}
+.card-tag {
+  padding: 1px 7px;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  background: #eef2f7;
+  color: var(--text-light);
+}
+.card-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+.card-btn {
+  flex: 1;
+  padding: 0.5rem;
+  text-align: center;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.card-btn-pdf {
+  background: var(--primary);
+  color: #fff;
+}
+.card-btn-pdf:hover { background: var(--primary-light); }
+.card-btn-ppt {
+  background: #eef2f7;
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+.card-btn-ppt:hover { background: #e2e5ea; }
+
+/* ========== Responsive ========== */
+@media (max-width: 768px) {
+  .page-header { padding: 1.8rem 1.2rem; }
+  .page-header h1 { font-size: 1.4rem; }
+  .card-grid { grid-template-columns: 1fr; padding: 0 1rem; gap: 1rem; }
+  .filter-section { padding: 0 1rem; }
+  .results-meta { padding: 0 1rem; }
+}
+
+/* ========== Note ========== */
+.demo-note {
+  max-width: 1200px;
+  margin: -0.5rem auto 1rem;
+  padding: 0 1.5rem;
+}
+.demo-note p {
+  font-size: 0.75rem;
+  color: var(--text-light);
+  background: #fffbe6;
+  border: 1px solid #f0e6a0;
+  border-radius: var(--radius-sm);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="page-header">
+  <h1>🔒 工程安全資料庫</h1>
+  <p>香港勞工處 · 建造業安全資源整合</p>
+  <span class="badge">樣板 · 10 / 502 項</span>
+</div>
+
+<!-- Filters -->
+<div class="filter-section">
+  <div class="filter-row">
+    <input type="text" class="search-box" id="searchBox" placeholder="搜尋標題、描述、編號…" oninput="filterCards()">
+  </div>
+  <div class="filter-tags" id="filterTags"></div>
+</div>
+
+<div class="results-meta">
+  顯示 <span id="resultCount">0</span> / <span id="totalCount">0</span> 項
+</div>
+
+<!-- Card Grid -->
+<div class="card-grid" id="cardGrid"></div>
+
+<div class="demo-note">
+  <p>📌 樣板展示 10 項代表數據 · PDF 連結指向 K2-Web 原始檔案 · 完整 502 項版本將包含全部搜尋篩選功能</p>
+</div>
+
+<script>
+// ========== Data (10 samples) ==========
+const SAMPLE_DATA = []; // filled below
+
+// ========== Render ==========
+let currentFilter = 'all';
+
+function getCategoryShort(cat) {
+  if (cat.includes('Part A')) return 'Part A';
+  if (cat.includes('Part B')) return 'Part B';
+  if (cat.includes('Part C')) return 'Part C';
+  if (cat.includes('Part D')) return 'Part D';
+  if (cat.includes('Part E')) return 'Part E';
+  if (cat.includes('Communication')) return 'Meeting';
+  if (cat.includes('ARE')) return 'ARE';
+  if (cat.includes('Campaign')) return 'Campaign';
+  if (cat.includes('COP') || cat.includes('LD')) return 'COP';
+  if (cat.includes('Training')) return 'Training';
+  return cat.slice(0, 12);
+}
+
+function getImageUrl(path) {
+  if (!path || path === '') return '';
+  // Map K2-Web universe paths to actual URLs
+  if (path.startsWith('/universe/')) {
+    return 'https://k2.85200852.xyz' + path;
+  }
+  return path;
+}
+
+function getPdfUrl(item) {
+  return getImageUrl(item.file_path || item.link_address);
+}
+function getPptUrl(item) {
+  return getImageUrl(item.link_address);
+}
+
+function renderCards() {
+  const grid = document.getElementById('cardGrid');
+  const search = document.getElementById('searchBox').value.toLowerCase().trim();
+  const countEl = document.getElementById('resultCount');
+  const totalEl = document.getElementById('totalCount');
+  
+  let filtered = SAMPLE_DATA.filter(item => {
+    if (currentFilter !== 'all' && item._label !== currentFilter) return false;
+    if (search) {
+      const title = (item.title || '').toLowerCase();
+      const desc = (item.description || '').toLowerCase();
+      const id = (item.id || '').toLowerCase();
+      const tags = (item.tags || '').toLowerCase();
+      if (!title.includes(search) && !desc.includes(search) && !id.includes(search) && !tags.includes(search)) return false;
+    }
+    return true;
+  });
+
+  totalEl.textContent = SAMPLE_DATA.length;
+  countEl.textContent = filtered.length;
+
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:3rem;color:var(--text-light)">🔍 沒有符合的項目</div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.map(item => {
+    const cover = getImageUrl(item.card_cover);
+    const pdfUrl = getPdfUrl(item);
+    const pptUrl = getPptUrl(item);
+    const catShort = getCategoryShort(item.category);
+    const desc = item.description || '';
+    const tags = (item.tags || '').split(';').map(t => t.trim()).filter(Boolean);
+    
+    return `
+      <div class="card">
+        ${cover ? `<img class="card-cover" src="${cover}" alt="" loading="lazy" onerror="this.style.display='none'">` 
+                : `<div class="card-cover">📄</div>`}
+        <div class="card-body">
+          <span class="card-category">${catShort}</span>
+          <div class="card-id">${item.id}</div>
+          <div class="card-title">${item.title}</div>
+          ${desc ? `<div class="card-desc">${desc}</div>` : ''}
+          ${tags.length ? `<div class="card-tags">${tags.map(t => `<span class="card-tag">${t}</span>`).join('')}</div>` : ''}
+          <div class="card-actions">
+            <a href="${pdfUrl}" class="card-btn card-btn-pdf" target="_blank">📕 PDF</a>
+            ${pptUrl && pptUrl !== pdfUrl && pptUrl.match(/\.(pptx?|mp4|jpg|png)$/i) ? 
+              `<a href="${pptUrl}" class="card-btn card-btn-ppt" target="_blank">📎 原檔</a>` : ''}
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function initFilters() {
+  const container = document.getElementById('filterTags');
+  const labels = ['all', 'Part A', 'Part B', 'Part C', 'Part D', 'Part E', 'Meeting', 'ARE', 'Campaign', 'COP', 'Training'];
+  const names = {
+    all: '🏷️ 全部', 'Part A': '法例簡介', 'Part B': '工作守則', 'Part C': '安全指引',
+    'Part D': '安全指南', 'Part E': '海報', Meeting: '會議', ARE: '培訓',
+    Campaign: '推廣', COP: '守則', Training: '教材'
+  };
+  
+  container.innerHTML = labels.map(l => 
+    `<span class="filter-tag ${l === 'all' ? 'active' : ''}" data-label="${l}" onclick="setFilter('${l}')">${names[l]}</span>`
+  ).join('');
+}
+
+function setFilter(label) {
+  currentFilter = label;
+  document.querySelectorAll('.filter-tag').forEach(el => {
+    el.classList.toggle('active', el.dataset.label === label);
+  });
+  renderCards();
+}
+
+function filterCards() {
+  renderCards();
+}
+
+// ========== Init ==========
+// Parse the JSON data from the script tag below
+(function() {
+  // data will be injected
+  renderCards();
+})();
+</script>
+
+<!-- Inject data -->
+<script>
+SAMPLE_DATA.push(...[{"id": "#200001","title": "建築地盤視察報告參閱手冊","tags": "Part A: Guides to Legislation | 法例簡介","date": "17/7/2025","description": "Reference Manual for Inspection Reports on Construction Sites","remark": "","card_cover": "/universe/Safety/Cover/Labour_Dept/RM_Sites.jpg","link_address": "/universe/Safety/Files/Labour_Dept/RM_Sites.pdf","method": "","category": "Part A: Guides to Legislation | 法例簡介","element": "Labour Dept勞工處","file_path": "https://www.labour.gov.hk/tc/public/pdf/os/A/RM_Sites.pdf","page_status": "in use","": "","_label": "Part A"},
+{"id": "#200035","title": "貨櫃場內機械處理安全工作守則","tags": "Part B : Codes of Practice | 工作守則 | CoP","date": "17/7/2025","description": "Code of Practice on Mechanical Handling Safety in Container Yards","remark": "","card_cover": "/universe/Safety/Cover/Labour_Dept/CoP(MHSCY)_2022(2nd edition)_TChi.jpg","link_address": "/universe/Safety/Files/Labour_Dept/CoP(MHSCY)_2022(2nd edition)_TChi.pdf","method": "","category": "Part B : Codes of Practice | 工作守則 | CoP","element": "Labour Dept勞工處","file_path": "https://www.labour.gov.hk/tc/public/os/B/CoP(MHSCY)_2022(2nd edition)_TChi.pdf","page_status": "in use","": "","_label": "Part B"},
+{"id": "#200051","title": "委任有資格人士評估工場噪音指引","tags": "Part C : Guidance Notes | 安全指引","date": "17/7/2025","description": "Guidance Notes on Appointment of Competent Persons for Noise Assessment at Workplaces","remark": "","card_cover": "/universe/Safety/Cover/Labour_Dept/ACP.jpg","link_address": "/universe/Safety/Files/Labour_Dept/ACP.pdf","method": "","category": "Part C : Guidance Notes | 安全指引","element": "Labour Dept勞工處","file_path": "https://www.labour.gov.hk/tc/public/pdf/os/C/ACP.pdf","page_status": "in use","": "","_label": "Part C"},
+{"id": "#200082","title": "電力工作意外致命個案(第一集)","tags": "Part D : Other Guidebooks | 其他安全指南","date": "17/7/2025","description": "","remark": "","card_cover": "/universe/Safety/Cover/Labour_Dept/Electrical_Accident_1_tc.jpg","link_address": "/universe/Safety/Files/Labour_Dept/Electrical_Accident_1_tc.pdf","method": "","category": "Part D : Other Guidebooks | 其他安全指南","element": "Labour Dept勞工處","file_path": "https://www.labour.gov.hk/tc/public/pdf/os/D/Electrical_Accident_1_tc.pdf","page_status": "in use","": "","_label": "Part D"},
+{"id": "#200174","title": "吊運安全勿分心(建築地盤)","tags": "Part E : Posters / Notices | 海報 / 告示","date": "17/7/2025","description": "Pay Attention to Lifting Safety (Construction Site)","remark": "","card_cover": "/universe/Safety/Cover/Labour_Dept/LiftingSafety_SC.jpg","link_address": "/universe/Safety/Files/Labour_Dept/LiftingSafety_SC.jpg","method": "","category": "Part E : Posters / Notices | 海報 / 告示","element": "Labour Dept勞工處","file_path": "https://www.labour.gov.hk/common/public/pdf/os/E/LiftingSafety_SC.jpg","page_status": "in use","": "","_label": "Part E"},
+{"id": "#000001","title": "01st RSS S&E Internal Communication Meeting","tags": "Lifting Operation","date": "1/1/2000","description": "Please comment","remark": "","card_cover": "/universe/Safety/Cover/safety_0001.jpg","link_address": "/universe/Safety/Files/Communication Meeting/2022/2022_03_18 Monthly RSS Internal Communication Meeting R2.pptx","method": "#NA","category": "Communication Meeting","element": "Communication Meeting","file_path": "/universe/Safety/Files/PDF/2022_03_18 Monthly RSS Internal Communication Meeting R2.pdf","page_status": "in use","": "","_label": "Meeting"},
+{"id": "#100001","title": "Safety Presentation - Application of Smart Technologies in Enhancing Safety in Construction Site Emily Tang","tags": "Safety Innovation","date": "1/1/2000","description": "Please comment","remark": "","card_cover": "/universe/Safety/Cover/safety_1001.jpg","link_address": "/universe/Safety/Files/Communication Meeting/Previous ARE Presentation/Safety Presentation ARE44.pptx","method": "","category": "ARE Presentation","element": "ARE Presentation","file_path": "/universe/Safety/Files/PDF/Safety Presentation ARE44.pdf","page_status": "in use","": "","_label": "ARE"},
+{"id": "#000029","title": "26th RSS S&E Internal Communication Meeting - BTP 13 LIVE Saving Rules 保命規條","tags": "Safety Engagement","date": "1/1/2000","description": "Please comment","remark": "","card_cover": "/universe/Safety/Cover/safety_0029.jpg","link_address": "/universe/Safety/Files/Communication Meeting/2023/BTP's 13 Live Saving Rules.pdf","method": "","category": "Safety Campaign - 建造業安全推廣活動","element": "Communication Meeting","file_path": "/universe/Safety/Files/PDF/BTP's 13 Live Saving Rules.pdf","page_status": "in use","": "","_label": "Campaign"},
+{"id": "#000067","title": "51st RSS S&E Internal Communication Meeting - Code of Practice for Metal Scaffolding Safety","tags": "Metal Scaffolding Safety ; Working at Height","date": "1/1/2000","description": "Please comment","remark": "","card_cover": "/universe/Safety/Cover/safety_0067.jpg","link_address": "/universe/Safety/Files/Communication Meeting/2025/COP Metal Scaffolding Safety.pdf","method": "Cop Metal Scaffolding Safety","category": "Safety COP ; LD Publication","element": "Communication Meeting","file_path": "/universe/Safety/Files/PDF/COP Metal Scaffolding Safety.pdf","page_status": "in use","": "","_label": "COP"},
+{"id": "#900004","title": "TBM Tunnel Safety","tags": "Tunnel","date": "1/1/2000","description": "Please comment","remark": "","card_cover": "/universe/Safety/Cover/safety_9004.jpg","link_address": "/universe/Safety/Files/Communication Meeting/2023/20231215 31st Monthly RSS Internal Communication Meeting/ref/08-RSS Internal Safety Workshop - Tunnel Safety.pdf","method": "","category": "Training material","element": "Communication Meeting","file_path": "/universe/Safety/Files/PDF/08-RSS Internal Safety Workshop - Tunnel Safety.pdf","page_status": "in use","": "","_label": "Training"}]);
+initFilters();
+</script>
+
+</body>
+</html>
