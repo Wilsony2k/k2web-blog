@@ -1,11 +1,15 @@
 menu:
   工程安全:
-    安全管理概覽: /categories/工程安全/ || anzhiyu-icon-shield
-    安全檢查卡: /categories/工程安全/ || anzhiyu-icon-clipboard-check
-    事故報告: /categories/工程安全/ || anzhiyu-icon-file-lines
-    風險評估: /categories/工程安全/ || anzhiyu-icon-chart-line
-    安全教育: /categories/工程安全/ || anzhiyu-icon-graduation-cap
-  技術實踐:
+  工程安全:
+    法例簡介: /categories/法例簡介/ || anzhiyu-icon-book
+    工作守則: /categories/工作守則/ || anzhiyu-icon-file-contract
+    安全指引: /categories/安全指引/ || anzhiyu-icon-compass
+    其他指南: /categories/其他指南/ || anzhiyu-icon-folder-open
+    海報告示: /categories/海報告示/ || anzhiyu-icon-image
+    安全會議: /categories/安全會議/ || anzhiyu-icon-people-group
+    安全培訓: /categories/安全培訓/ || anzhiyu-icon-graduation-cap
+    安全推廣: /categories/安全推廣/ || anzhiyu-icon-rocket
+    查看全部: /categories/安全管理/ || anzhiyu-icon-shield  技術實踐:
     文章歸檔: /archives/ || anzhiyu-icon-box-archive
     分類: /categories/ || anzhiyu-icon-shapes
     標籤: /tags/ || anzhiyu-icon-tags

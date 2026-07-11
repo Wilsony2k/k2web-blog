@@ -1,0 +1,13 @@
+---
+title: Safety Presentation - Heat stroke William Lee
+date: '2026-08-30 00:00:00'
+categories:
+- 安全管理
+- ARE Presentation
+tags:
+- Heat Stroke at Work ; 工作暑熱警告
+card_id: '100016'
+cover: /universe/Safety/Cover/safety_1016.jpg
+---
+
+Please comment

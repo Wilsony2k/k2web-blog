@@ -1,0 +1,14 @@
+---
+title: Chemical Safety in the Workplace - Guidance Notes on Chemical Safety in Printing
+  Industry
+date: '2027-07-01 00:00:00'
+categories:
+- 安全管理
+- 安全指引
+tags:
+- 'Part C : Guidance Notes | 安全指引'
+card_id: '200276'
+cover: /universe/Safety/Cover/Labour_Dept/GN_Printing.jpg
+---
+
+工作地點的化學安全 ─ 紡織品整理的化學安全指引
