@@ -8,7 +8,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200361'
-cover: /universe/Safety/Cover/Labour_Dept/Employee_Liability_TC_Eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Employee_Liability_TC_Eng.jpg
 ---
 
 僱員遵守職安法 顧己及人免刑責

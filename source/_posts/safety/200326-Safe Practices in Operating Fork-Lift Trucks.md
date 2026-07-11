@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200326'
-cover: /universe/Safety/Cover/Labour_Dept/forklift.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/forklift.jpg
 ---
 
 叉式起重車之安全操作

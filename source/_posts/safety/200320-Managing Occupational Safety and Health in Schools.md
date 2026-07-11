@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200320'
-cover: /universe/Safety/Cover/Labour_Dept/school.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/school.jpg
 ---
 
 學校的職業安全及健康管理

@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200312'
-cover: /universe/Safety/Cover/Labour_Dept/LiftRM.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/LiftRM.jpg
 ---
 
 升降機維修保養安全簡介

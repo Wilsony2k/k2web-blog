@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200337'
-cover: /universe/Safety/Cover/Labour_Dept/SheetPile.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SheetPile.jpg
 ---
 
 互鎖鋼板樁的安全工作指南

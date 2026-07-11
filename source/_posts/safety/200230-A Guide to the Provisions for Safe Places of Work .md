@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200230'
-cover: /universe/Safety/Cover/Labour_Dept/PartVA.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/PartVA.jpg
 ---
 
 建築地盤(安全)規例第VA部有關安全工作地方的條文簡介

@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200380'
-cover: /universe/Safety/Cover/Labour_Dept/AbrasiveWheel.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/AbrasiveWheel.jpg
 ---
 
 使用砂輪時應注意下列

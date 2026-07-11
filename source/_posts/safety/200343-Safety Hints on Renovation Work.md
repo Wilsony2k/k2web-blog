@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200343'
-cover: /universe/Safety/Cover/Labour_Dept//Renovation_Work_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept//Renovation_Work_eng.jpg
 ---
 
 裝修工程 - 工作安全須知

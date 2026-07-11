@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200252'
-cover: /universe/Safety/Cover/Labour_Dept/ACP.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/ACP.jpg
 ---
 
 委任有資格人士評估工場噪音指引

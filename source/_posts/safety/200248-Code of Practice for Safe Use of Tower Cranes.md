@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200248'
-cover: /universe/Safety/Cover/Labour_Dept/crane.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/crane.jpg
 ---
 
 安全使用塔式起重機工作守則

@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200261'
-cover: /universe/Safety/Cover/Labour_Dept/Jetty.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Jetty.jpg
 ---
 
 臨時傾卸碼頭工作安全指引

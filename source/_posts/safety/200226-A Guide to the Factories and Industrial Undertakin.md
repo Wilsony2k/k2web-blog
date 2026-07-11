@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200226'
-cover: /universe/Safety/Cover/Labour_Dept/proprietor.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/proprietor.jpg
 ---
 
 工廠及工業經營條例(第6A條)簡介 － 東主的一般責任

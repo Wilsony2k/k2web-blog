@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200293'
-cover: /universe/Safety/Cover/Labour_Dept/MHO_Employer_EN.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/MHO_Employer_EN.jpg
 ---
 
 體力處理操作 ─ 僱主須知

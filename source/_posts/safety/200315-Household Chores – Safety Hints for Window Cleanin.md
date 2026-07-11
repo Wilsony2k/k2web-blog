@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200315'
-cover: /universe/Safety/Cover/Labour_Dept/Flyer_Eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Flyer_Eng.jpg
 ---
 
 家務工作 – 清潔窗戶的安全提示

@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200340'
-cover: /universe/Safety/Cover/Labour_Dept/iUBW.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/iUBW.jpg
 ---
 
 清拆違例建築工程工作安全須知

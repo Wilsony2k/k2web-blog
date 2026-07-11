@@ -8,7 +8,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200355'
-cover: /universe/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_PMC_en.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_PMC_en.jpg
 ---
 
 裝修及維修工程的職業安全 - 物業管理公司須知

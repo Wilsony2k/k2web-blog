@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200377'
-cover: /universe/Safety/Cover/Labour_Dept/safety_poster_3.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/safety_poster_3.jpg
 ---
 
 斜杆橫綴不可少 穩固構件確必要

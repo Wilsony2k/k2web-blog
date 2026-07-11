@@ -9,7 +9,7 @@ tags:
 - Fire Safety
 - Incident Report
 card_id: 000059
-cover: /universe/Safety/Cover/safety_0059.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0059.jpg
 ---
 
 Please comment

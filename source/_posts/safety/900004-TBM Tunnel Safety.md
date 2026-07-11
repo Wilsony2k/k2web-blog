@@ -7,7 +7,7 @@ categories:
 tags:
 - Tunnel
 card_id: '900004'
-cover: /universe/Safety/Cover/safety_9004.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_9004.jpg
 ---
 
 Please comment

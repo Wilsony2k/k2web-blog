@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200232'
-cover: /universe/Safety/Cover/Labour_Dept/NoiseAtWork_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/NoiseAtWork_eng.jpg
 ---
 
 工廠及工業經營(工作噪音)規例圖文指南

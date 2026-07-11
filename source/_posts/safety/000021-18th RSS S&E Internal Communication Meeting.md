@@ -7,7 +7,7 @@ categories:
 tags:
 - Typoon Response
 card_id: '000021'
-cover: /universe/Safety/Cover/safety_0021.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0021.jpg
 ---
 
 Please comment

@@ -9,7 +9,7 @@ tags:
 - Smart Helmet
 - Lesson Learnt
 card_id: '000005'
-cover: /universe/Safety/Cover/safety_0005.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0005.jpg
 ---
 
 Please comment

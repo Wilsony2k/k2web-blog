@@ -7,7 +7,7 @@ categories:
 tags:
 - Study Material
 card_id: '900015'
-cover: /universe/Safety/Cover/safety_9015.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_9015.jpg
 ---
 
 Please comment

@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200375'
-cover: /universe/Safety/Cover/Labour_Dept/Safe_Lifting_Poster.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Safe_Lifting_Poster.jpg
 ---
 
 安全吊運

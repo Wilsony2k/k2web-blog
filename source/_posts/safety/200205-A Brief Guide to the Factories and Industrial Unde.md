@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200205'
-cover: /universe/Safety/Cover/Labour_Dept/ConfinedSpace.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/ConfinedSpace.jpg
 ---
 
 工廠及工業經營(密閉空間)規例簡介

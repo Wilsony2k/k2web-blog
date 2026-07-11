@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200266'
-cover: /universe/Safety/Cover/Labour_Dept/B145.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/B145.jpg
 ---
 
 保養低壓電開關設備的安全工作指引

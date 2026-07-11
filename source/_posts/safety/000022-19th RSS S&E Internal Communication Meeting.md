@@ -7,7 +7,7 @@ categories:
 tags:
 - Falling Object
 card_id: '000022'
-cover: /universe/Safety/Cover/safety_0022.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0022.jpg
 ---
 
 Please comment

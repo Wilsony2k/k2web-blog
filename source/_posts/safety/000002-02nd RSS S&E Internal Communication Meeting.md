@@ -9,7 +9,7 @@ tags:
 - Safety news sharing
 - Lesson Learnt
 card_id: '000002'
-cover: /universe/Safety/Cover/safety_0002.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0002.jpg
 ---
 
 Please comment

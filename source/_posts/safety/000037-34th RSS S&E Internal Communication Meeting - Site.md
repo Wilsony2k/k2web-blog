@@ -8,7 +8,7 @@ categories:
 tags:
 - Checklist
 card_id: '000037'
-cover: /universe/Safety/Cover/safety_0037.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0037.jpg
 ---
 
 Please comment

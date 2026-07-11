@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200317'
-cover: /universe/Safety/Cover/Labour_Dept/IndSafetyGenDutiesPersonsEmployed.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/IndSafetyGenDutiesPersonsEmployed.jpg
 ---
 
 工業安全 一般責任(受僱的人須知)

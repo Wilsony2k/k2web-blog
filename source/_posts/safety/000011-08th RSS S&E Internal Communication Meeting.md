@@ -7,7 +7,7 @@ categories:
 tags:
 - Lesson Learnt - Fatal Zone
 card_id: '000011'
-cover: /universe/Safety/Cover/safety_0011.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0011.jpg
 ---
 
 Please comment

@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200369'
-cover: /universe/Safety/Cover/Labour_Dept/lcklc.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/lcklc.jpg
 ---
 
 改善飲食業安全　勞資雙方拍住上

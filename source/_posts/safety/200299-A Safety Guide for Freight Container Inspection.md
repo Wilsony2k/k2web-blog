@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200299'
-cover: /universe/Safety/Cover/Labour_Dept/FreightContainer.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/FreightContainer.jpg
 ---
 
 貨櫃檢查的安全工作指南

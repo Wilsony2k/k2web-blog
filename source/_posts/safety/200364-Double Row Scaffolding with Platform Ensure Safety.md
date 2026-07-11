@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200364'
-cover: /universe/Safety/Cover/Labour_Dept/scaffold.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/scaffold.jpg
 ---
 
 雙棚再加工作台  穩陣安全防意外

@@ -7,7 +7,7 @@ categories:
 tags:
 - Lifting Operation
 card_id: '000064'
-cover: /universe/Safety/Cover/safety_0064.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0064.jpg
 ---
 
 Please comment

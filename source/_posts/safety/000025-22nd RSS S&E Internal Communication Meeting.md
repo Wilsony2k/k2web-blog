@@ -7,7 +7,7 @@ categories:
 tags:
 - EM&A Requirements
 card_id: '000025'
-cover: /universe/Safety/Cover/safety_0025.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0025.jpg
 ---
 
 Please comment

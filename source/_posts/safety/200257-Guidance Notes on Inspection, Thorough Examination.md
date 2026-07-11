@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200257'
-cover: /universe/Safety/Cover/Labour_Dept/gear.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/gear.jpg
 ---
 
 起重機械及起重裝置的檢查、檢驗和測試指南

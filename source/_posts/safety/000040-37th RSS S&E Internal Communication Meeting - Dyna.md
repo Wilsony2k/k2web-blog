@@ -7,7 +7,7 @@ categories:
 tags:
 - Dynamic Risk Assessment -DRA
 card_id: '000040'
-cover: /universe/Safety/Cover/safety_0040.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0040.jpg
 ---
 
 Please comment

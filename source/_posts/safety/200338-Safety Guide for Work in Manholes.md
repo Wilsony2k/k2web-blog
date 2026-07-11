@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200338'
-cover: /universe/Safety/Cover/Labour_Dept/Manhole.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Manhole.jpg
 ---
 
 沙井工作安全簡介

@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200365'
-cover: /universe/Safety/Cover/Labour_Dept/ElectricShock.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/ElectricShock.jpg
 ---
 
 電擊

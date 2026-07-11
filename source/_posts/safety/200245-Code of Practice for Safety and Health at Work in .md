@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200245'
-cover: /universe/Safety/Cover/Labour_Dept/space.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/space.jpg
 ---
 
 密閉空間工作的安全與健康工作守則

@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200274'
-cover: /universe/Safety/Cover/Labour_Dept/equipment.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/equipment.jpg
 ---
 
 工作地點的化學安全 ─ 玻璃增強塑料製造的化學安全指引

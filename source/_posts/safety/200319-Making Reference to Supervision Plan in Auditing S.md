@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200319'
-cover: /universe/Safety/Cover/Labour_Dept/ASMS.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/ASMS.jpg
 ---
 
 審核安全管理制度可參考監工計劃書

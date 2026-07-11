@@ -7,7 +7,7 @@ categories:
 tags:
 - Mobile Plant Management
 card_id: '000030'
-cover: /universe/Safety/Cover/safety_0030.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0030.jpg
 ---
 
 Please comment

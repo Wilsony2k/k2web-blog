@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200373'
-cover: /universe/Safety/Cover/Labour_Dept/tools.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/tools.jpg
 ---
 
 工具存放要適當　更須善用與保養

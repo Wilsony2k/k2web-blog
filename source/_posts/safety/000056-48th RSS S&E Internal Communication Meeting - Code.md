@@ -8,7 +8,7 @@ categories:
 tags:
 - Hot Work
 card_id: '000056'
-cover: /universe/Safety/Cover/safety_0056.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0056.jpg
 ---
 
 Please comment

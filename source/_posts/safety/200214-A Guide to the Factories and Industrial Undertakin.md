@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200214'
-cover: /universe/Safety/Cover/Labour_Dept/Fire_Eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Fire_Eng.jpg
 ---
 
 工廠及工業經營(應呈報工場的防火設備)規例簡介

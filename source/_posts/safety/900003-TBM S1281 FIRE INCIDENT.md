@@ -7,7 +7,7 @@ categories:
 tags:
 - Fire Safety
 card_id: '900003'
-cover: /universe/Safety/Cover/safety_9003.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_9003.jpg
 ---
 
 Please comment

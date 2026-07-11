@@ -7,7 +7,7 @@ categories:
 tags:
 - Safe Design
 card_id: '000013'
-cover: /universe/Safety/Cover/safety_0013.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0013.jpg
 ---
 
 Please comment

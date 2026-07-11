@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200290'
-cover: /universe/Safety/Cover/Labour_Dept/Fatalcase2.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Fatalcase2.jpg
 ---
 
 職業意外致命個案分析 (第二集)

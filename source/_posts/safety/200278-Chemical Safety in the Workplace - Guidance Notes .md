@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200278'
-cover: /universe/Safety/Cover/Labour_Dept/Catering.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Catering.jpg
 ---
 
 工作地點的化學安全 ─ 噴漆及相關噴塗工序指引

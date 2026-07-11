@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200249'
-cover: /universe/Safety/Cover/Labour_Dept/CoP_for_Mobile_Cranes_ENG.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/CoP_for_Mobile_Cranes_ENG.jpg
 ---
 
 安全使用流動式起重機工作守則

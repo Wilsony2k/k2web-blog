@@ -7,7 +7,7 @@ categories:
 tags:
 - Construction Noise Permits (CNP)
 card_id: '000020'
-cover: /universe/Safety/Cover/safety_0020.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0020.jpg
 ---
 
 Please comment

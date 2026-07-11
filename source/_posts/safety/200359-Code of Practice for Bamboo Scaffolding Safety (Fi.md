@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200359'
-cover: /universe/Safety/Cover/Labour_Dept/TOS_TC.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/TOS_TC.jpg
 ---
 
 竹棚架工作安全守則(第五版)

@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200309'
-cover: /universe/Safety/Cover/Labour_Dept/5Steps.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/5Steps.jpg
 ---
 
 資料、指導及訓練5部曲

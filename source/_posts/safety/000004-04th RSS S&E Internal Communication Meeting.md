@@ -9,7 +9,7 @@ tags:
 - Adverse Weather Procedure
 - Lesson Learnt
 card_id: '000004'
-cover: /universe/Safety/Cover/safety_0004.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0004.jpg
 ---
 
 Please comment

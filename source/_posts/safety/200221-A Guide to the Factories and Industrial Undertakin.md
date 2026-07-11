@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200221'
-cover: /universe/Safety/Cover/Labour_Dept/smr_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/smr_eng.jpg
 ---
 
 工廠及工業經營(安全管理)規例指南

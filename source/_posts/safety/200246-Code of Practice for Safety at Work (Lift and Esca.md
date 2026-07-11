@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200246'
-cover: /universe/Safety/Cover/Labour_Dept/lift.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/lift.jpg
 ---
 
 工作安全守則 (升降機及自動梯)

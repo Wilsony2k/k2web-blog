@@ -10,7 +10,7 @@ tags:
 - Working at Height
 - Working at Edge
 card_id: '100024'
-cover: /universe/Safety/Cover/safety_1024.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1024.jpg
 ---
 
 Please comment

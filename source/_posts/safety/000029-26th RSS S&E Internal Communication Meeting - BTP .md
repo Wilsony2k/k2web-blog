@@ -7,7 +7,7 @@ categories:
 tags:
 - Safety Engagement
 card_id: 000029
-cover: /universe/Safety/Cover/safety_0029.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0029.jpg
 ---
 
 Please comment

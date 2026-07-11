@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200254'
-cover: /universe/Safety/Cover/Labour_Dept/belt.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/belt.jpg
 ---
 
 安全帶及其繫穩系統的分類與使用指引

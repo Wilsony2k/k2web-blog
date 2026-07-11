@@ -8,7 +8,7 @@ categories:
 tags:
 - Underground Utilities Safety
 card_id: '100010'
-cover: /universe/Safety/Cover/safety_1010.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1010.jpg
 ---
 
 Please comment

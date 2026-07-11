@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200330'
-cover: /universe/Safety/Cover/Labour_Dept/SmallShop.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SmallShop.jpg
 ---
 
 小型零售店的工作安全及健康

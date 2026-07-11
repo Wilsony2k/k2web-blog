@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200279'
-cover: /universe/Safety/Cover/Labour_Dept/B123.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/B123.jpg
 ---
 
 工作地點的化學安全 ─ 安全使用易燃液體指引

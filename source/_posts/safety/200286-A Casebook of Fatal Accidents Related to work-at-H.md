@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200286'
-cover: /universe/Safety/Cover/Labour_Dept/Fall_fr_Height_English_tag-FW.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Fall_fr_Height_English_tag-FW.jpg
 ---
 
 高處工作意外致命個案集

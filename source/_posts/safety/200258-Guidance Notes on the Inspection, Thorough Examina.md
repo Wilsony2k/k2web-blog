@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200258'
-cover: /universe/Safety/Cover/Labour_Dept/SWP.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SWP.jpg
 ---
 
 檢查、檢驗和測試吊船指引

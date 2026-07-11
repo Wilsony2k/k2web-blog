@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200349'
-cover: /universe/Safety/Cover/Labour_Dept/1788Em-Eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/1788Em-Eng.jpg
 ---
 
 與僱主攜手合作

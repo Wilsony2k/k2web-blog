@@ -7,7 +7,7 @@ categories:
 tags:
 - Lesson Learnt - Serious Accident
 card_id: '000016'
-cover: /universe/Safety/Cover/safety_0016.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0016.jpg
 ---
 
 Please comment

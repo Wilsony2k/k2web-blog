@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200282'
-cover: /universe/Safety/Cover/Labour_Dept/GN_on_S&H_of_Hand-dug_Tunnelling_Work_Eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/GN_on_S%26H_of_Hand-dug_Tunnelling_Work_Eng.jpg
 ---
 
 手挖隧道工作的安全與健康指引

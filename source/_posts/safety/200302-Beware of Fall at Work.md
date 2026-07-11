@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200302'
-cover: /universe/Safety/Cover/Labour_Dept/fall_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/fall_eng.jpg
 ---
 
 慎防工作時跌倒

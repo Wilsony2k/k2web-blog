@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200208'
-cover: /universe/Safety/Cover/Labour_Dept/mbst.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/mbst.jpg
 ---
 
 工廠及工業經營條例(第59章)第6BA條簡介 ─ 強制性基本安全訓練

@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200235'
-cover: /universe/Safety/Cover/Labour_Dept/accidentdo.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/accidentdo.jpg
 ---
 
 呈報工作地點意外及危險事故

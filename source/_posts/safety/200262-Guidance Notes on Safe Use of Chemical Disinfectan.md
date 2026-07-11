@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200262'
-cover: /universe/Safety/Cover/Labour_Dept/Disinfectants.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Disinfectants.jpg
 ---
 
 安全使用化學消毒劑指引

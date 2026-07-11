@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200220'
-cover: /universe/Safety/Cover/Labour_Dept/PE.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/PE.jpg
 ---
 
 工廠及工業經營(保護眼睛)規例簡介

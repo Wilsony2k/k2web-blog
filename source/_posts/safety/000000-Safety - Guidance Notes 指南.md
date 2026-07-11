@@ -7,7 +7,7 @@ categories:
 tags:
 - Guidance Notes 指南
 card_id: '000000'
-cover: /universe/Safety/Cover/safety_Guidance Notes.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_Guidance%20Notes.jpg
 ---
 
 Guidance Notes 指南

@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200298'
-cover: /universe/Safety/Cover/Labour_Dept/Noisered.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Noisered.jpg
 ---
 
 減低工業噪音的實用指南

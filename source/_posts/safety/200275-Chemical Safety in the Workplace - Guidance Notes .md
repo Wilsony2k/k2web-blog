@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200275'
-cover: /universe/Safety/Cover/Labour_Dept/PlasticsFabrication.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/PlasticsFabrication.jpg
 ---
 
 工作地點的化學安全 ─ 印刷業的化學安全指引

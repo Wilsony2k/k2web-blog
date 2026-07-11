@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200207'
-cover: /universe/Safety/Cover/Labour_Dept/OSHR.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/OSHR.jpg
 ---
 
 職業安全及健康規例簡介

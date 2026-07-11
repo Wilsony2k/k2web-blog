@@ -7,7 +7,7 @@ categories:
 tags:
 - Disposal Waste
 card_id: '000017'
-cover: /universe/Safety/Cover/safety_0017.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0017.jpg
 ---
 
 Please comment

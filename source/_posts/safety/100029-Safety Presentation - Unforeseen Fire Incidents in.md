@@ -8,7 +8,7 @@ categories:
 tags:
 - Fire Safety
 card_id: '100029'
-cover: /universe/Safety/Cover/safety_1029.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1029.jpg
 ---
 
 Please comment

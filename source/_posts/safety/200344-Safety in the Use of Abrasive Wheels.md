@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200344'
-cover: /universe/Safety/Cover/Labour_Dept/AbrasiveWheels_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/AbrasiveWheels_eng.jpg
 ---
 
 砂輪的安全使用

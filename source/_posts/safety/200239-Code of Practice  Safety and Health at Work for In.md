@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200239'
-cover: /universe/Safety/Cover/Labour_Dept/diving.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/diving.jpg
 ---
 
 工作守則：工業潛水的工作安全與健康

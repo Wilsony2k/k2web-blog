@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200281'
-cover: /universe/Safety/Cover/Labour_Dept/falsework_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/falsework_eng.jpg
 ---
 
 重型機械車輛輪胎裝拆及充氣工作安全指引

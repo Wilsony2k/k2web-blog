@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200350'
-cover: /universe/Safety/Cover/Labour_Dept/Flammable_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Flammable_eng.jpg
 ---
 
 小心使用易燃物料

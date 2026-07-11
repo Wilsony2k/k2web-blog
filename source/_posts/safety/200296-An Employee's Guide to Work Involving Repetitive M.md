@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200296'
-cover: /universe/Safety/Cover/Labour_Dept/Employees_Guide_to_Work_Involving_Repetitive_Movements_EN.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Employees_Guide_to_Work_Involving_Repetitive_Movements_EN.jpg
 ---
 
 重複性動作或體力勞動的工作 ─ 僱員須知

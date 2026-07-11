@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200371'
-cover: /universe/Safety/Cover/Labour_Dept/Poster.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Poster.jpg
 ---
 
 精神好 服務質素高 按時休息可做到！

@@ -8,7 +8,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200382'
-cover: /universe/Safety/Cover/Labour_Dept/CalendarPoster2025TC2.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/CalendarPoster2025TC2.jpg
 ---
 
 工作守則你要識 安全施工齊得益 (2025年曆)

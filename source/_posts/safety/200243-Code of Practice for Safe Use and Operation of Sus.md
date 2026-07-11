@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200243'
-cover: /universe/Safety/Cover/Labour_Dept/platform.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/platform.jpg
 ---
 
 安全使用和操作吊船工作守則

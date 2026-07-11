@@ -7,7 +7,7 @@ categories:
 tags:
 - Electrical Safe
 card_id: '000032'
-cover: /universe/Safety/Cover/safety_0032.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0032.jpg
 ---
 
 Please comment

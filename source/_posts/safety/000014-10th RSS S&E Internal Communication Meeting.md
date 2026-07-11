@@ -8,7 +8,7 @@ tags:
 - Accident Reporting Procedure
 - 意外/事故通報機制
 card_id: '000014'
-cover: /universe/Safety/Cover/safety_0014.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0014.jpg
 ---
 
 Please comment

@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200217'
-cover: /universe/Safety/Cover/Labour_Dept/FIU_LALG_ENG.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/FIU_LALG_ENG.jpg
 ---
 
 工廠及工業經營(起重機械及起重裝置)規例簡介

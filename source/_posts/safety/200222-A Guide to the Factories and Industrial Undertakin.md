@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200222'
-cover: /universe/Safety/Cover/Labour_Dept/SOSSR_E.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SOSSR_E.jpg
 ---
 
 工廠及工業經營(安全主任及安全督導員)規例簡介

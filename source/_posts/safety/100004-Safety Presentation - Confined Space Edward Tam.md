@@ -7,7 +7,7 @@ categories:
 tags:
 - Confined Spaces 密閉空間
 card_id: '100004'
-cover: /universe/Safety/Cover/safety_1004.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1004.jpg
 ---
 
 Please comment

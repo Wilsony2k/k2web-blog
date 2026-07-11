@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200331'
-cover: /universe/Safety/Cover/Labour_Dept/SHGCT.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SHGCT.jpg
 ---
 
 飲食業安全及健康簡介

@@ -8,7 +8,7 @@ categories:
 tags:
 - Safety Innovation
 card_id: '100030'
-cover: /universe/Safety/Cover/safety_1030.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1030.jpg
 ---
 
 Please comment

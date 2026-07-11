@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200263'
-cover: /universe/Safety/Cover/Labour_Dept/LoadshiftingMachines.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/LoadshiftingMachines.jpg
 ---
 
 在建築地盤安全使用負荷物移動機作搬土工作指引

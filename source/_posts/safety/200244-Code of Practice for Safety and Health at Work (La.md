@@ -8,7 +8,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200244'
-cover: /universe/Safety/Cover/Labour_Dept/fall2.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/fall2.jpg
 ---
 
 工作安全及健康守則(沿岸的陸上建築 - 防止工人墮下)

@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200303'
-cover: /universe/Safety/Cover/Labour_Dept/Site_Accident_Cases_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Site_Accident_Cases_eng.jpg
 ---
 
 地盤意外個案簡析

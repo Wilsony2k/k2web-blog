@@ -7,7 +7,7 @@ categories:
 tags:
 - Emergency Access
 card_id: '000035'
-cover: /universe/Safety/Cover/safety_0035.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0035.jpg
 ---
 
 Please comment

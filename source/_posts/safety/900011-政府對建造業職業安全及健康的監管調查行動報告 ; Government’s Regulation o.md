@@ -7,7 +7,7 @@ categories:
 - 調查報告
 tags: []
 card_id: '900011'
-cover: /universe/Safety/Cover/safety_9011.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_9011.jpg
 ---
 
 Please comment

@@ -8,7 +8,7 @@ categories:
 tags:
 - Temporary Works - 臨時工程
 card_id: '000060'
-cover: /universe/Safety/Cover/safety_0060.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0060.jpg
 ---
 
 Please comment

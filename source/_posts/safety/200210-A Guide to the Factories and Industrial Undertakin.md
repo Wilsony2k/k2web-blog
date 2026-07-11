@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200210'
-cover: /universe/Safety/Cover/Labour_Dept/Cargo.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Cargo.jpg
 ---
 
 工廠及工業經營(貨物搬運及貨櫃處理作業)規例簡介

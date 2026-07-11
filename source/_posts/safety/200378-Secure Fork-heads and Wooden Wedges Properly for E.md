@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200378'
-cover: /universe/Safety/Cover/Labour_Dept/safety_poster_1.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/safety_poster_1.jpg
 ---
 
 叉頭木楔要放妥 均勻承托莫粗疏

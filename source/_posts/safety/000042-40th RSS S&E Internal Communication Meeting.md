@@ -7,7 +7,7 @@ categories:
 tags:
 - First Aid
 card_id: '000042'
-cover: /universe/Safety/Cover/safety_0042.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0042.jpg
 ---
 
 Please comment

@@ -8,7 +8,7 @@ categories:
 tags:
 - Falling Object
 card_id: '100012'
-cover: /universe/Safety/Cover/safety_1012.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1012.jpg
 ---
 
 Please comment

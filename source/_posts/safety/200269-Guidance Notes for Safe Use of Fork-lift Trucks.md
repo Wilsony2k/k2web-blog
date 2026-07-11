@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200269'
-cover: /universe/Safety/Cover/Labour_Dept/GN-FLT.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/GN-FLT.jpg
 ---
 
 安全指引 ─ 預防被貨車尾板夾傷的危害

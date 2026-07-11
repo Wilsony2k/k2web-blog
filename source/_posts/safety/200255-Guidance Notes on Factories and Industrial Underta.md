@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200255'
-cover: /universe/Safety/Cover/Labour_Dept/FIUNR.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/FIUNR.jpg
 ---
 
 工廠及工業經營(工作噪音)規例指引

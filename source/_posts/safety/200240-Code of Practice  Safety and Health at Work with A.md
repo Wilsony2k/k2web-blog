@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200240'
-cover: /universe/Safety/Cover/Labour_Dept/asbestos.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/asbestos.jpg
 ---
 
 工作守則：石棉工作的安全與健康

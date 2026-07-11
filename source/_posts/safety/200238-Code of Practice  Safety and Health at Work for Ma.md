@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200238'
-cover: /universe/Safety/Cover/Labour_Dept/welding3.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/welding3.jpg
 ---
 
 工作守則：手工電弧焊接工作的安全與健康

@@ -7,7 +7,7 @@ categories:
 tags:
 - Disposal Soil
 card_id: '000015'
-cover: /universe/Safety/Cover/safety_0015.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0015.jpg
 ---
 
 Please comment

@@ -8,7 +8,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200285'
-cover: /universe/Safety/Cover/Labour_Dept/FatalAccidents.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/FatalAccidents.jpg
 ---
 
 升降機安裝、保養及維修工作致命意外個案集

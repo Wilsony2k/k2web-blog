@@ -8,7 +8,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200381'
-cover: /universe/Safety/Cover/Labour_Dept/CalendarPoster2025TC1.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/CalendarPoster2025TC1.jpg
 ---
 
 職安文化常在心 安全措施做滿分 (2025年曆)

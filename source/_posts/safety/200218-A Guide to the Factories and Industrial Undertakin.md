@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200218'
-cover: /universe/Safety/Cover/Labour_Dept/gfiulmr.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/gfiulmr.jpg
 ---
 
 工廠及工業經營(負荷物移動機械)規例簡介

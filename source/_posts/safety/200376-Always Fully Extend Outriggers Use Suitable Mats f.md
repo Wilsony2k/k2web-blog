@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200376'
-cover: /universe/Safety/Cover/Labour_Dept/Skids.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Skids.jpg
 ---
 
 支重腳撐全伸展 合適底墊不可缺

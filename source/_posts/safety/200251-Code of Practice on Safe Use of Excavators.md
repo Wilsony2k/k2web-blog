@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200251'
-cover: /universe/Safety/Cover/Labour_Dept/excavator.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/excavator.jpg
 ---
 
 安全使用挖土機工作守則

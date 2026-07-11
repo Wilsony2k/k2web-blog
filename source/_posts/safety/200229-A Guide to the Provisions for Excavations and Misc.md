@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200229'
-cover: /universe/Safety/Cover/Labour_Dept/Excv.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Excv.jpg
 ---
 
 建築地盤(安全)規例挖掘工程及一般工作安全條文簡介

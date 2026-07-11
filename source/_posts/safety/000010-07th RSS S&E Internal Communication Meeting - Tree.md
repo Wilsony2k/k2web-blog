@@ -7,7 +7,7 @@ categories:
 tags:
 - Tree
 card_id: '000010'
-cover: /universe/Safety/Cover/safety_0010.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0010.jpg
 ---
 
 Please comment

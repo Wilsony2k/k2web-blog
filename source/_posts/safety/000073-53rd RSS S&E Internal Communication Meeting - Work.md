@@ -7,7 +7,7 @@ categories:
 tags:
 - Work for Industrial Diving
 card_id: '000073'
-cover: /universe/Safety/Cover/safety_0073.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0073.jpg
 ---
 
 Please comment

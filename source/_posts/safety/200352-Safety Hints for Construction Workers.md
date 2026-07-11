@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200352'
-cover: /universe/Safety/Cover/Labour_Dept/SafetyHints_CW_Eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SafetyHints_CW_Eng.jpg
 ---
 
 建造業工人安全須知

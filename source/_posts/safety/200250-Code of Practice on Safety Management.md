@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200250'
-cover: /universe/Safety/Cover/Labour_Dept/manage.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/manage.jpg
 ---
 
 安全管理工作守則

@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200265'
-cover: /universe/Safety/Cover/Labour_Dept/battery.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/battery.jpg
 ---
 
 安全及健康工作指引 ─ 充電電池的使用及維修

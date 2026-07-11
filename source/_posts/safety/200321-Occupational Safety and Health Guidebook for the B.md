@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200321'
-cover: /universe/Safety/Cover/Labour_Dept/bank.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/bank.jpg
 ---
 
 銀行及金融業的職業安全及健康指南

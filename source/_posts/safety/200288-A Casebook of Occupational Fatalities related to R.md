@@ -8,7 +8,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200288'
-cover: /universe/Safety/Cover/Labour_Dept/CaseBook_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/CaseBook_eng.jpg
 ---
 
 有關翻新及維修工程職業意外致命個案集

@@ -8,7 +8,7 @@ tags:
 - Lesson Learnt- Tower Crane
 - Near Miss
 card_id: 000009
-cover: /universe/Safety/Cover/safety_0009.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0009.jpg
 ---
 
 Please comment

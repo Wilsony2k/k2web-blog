@@ -8,7 +8,7 @@ tags:
 - Mobile Elevating Work Platform (MEWP)
 - Working at Height
 card_id: '100018'
-cover: /universe/Safety/Cover/safety_1018.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1018.jpg
 ---
 
 Please comment

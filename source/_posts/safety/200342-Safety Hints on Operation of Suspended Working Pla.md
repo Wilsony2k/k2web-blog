@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200342'
-cover: /universe/Safety/Cover/Labour_Dept/SupendedWorkingPlatform.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SupendedWorkingPlatform.jpg
 ---
 
 吊船操作安全簡介

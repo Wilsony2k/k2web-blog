@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200328'
-cover: /universe/Safety/Cover/Labour_Dept/HiostInterlockingGate.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/HiostInterlockingGate.jpg
 ---
 
 物料吊重機的安全使用 ─ 機槽閘門的互鎖裝置

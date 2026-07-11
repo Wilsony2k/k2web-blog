@@ -7,7 +7,7 @@ categories:
 tags:
 - Safety Campaign - 安全推廣
 card_id: '000041'
-cover: /universe/Safety/Cover/safety_0041.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0041.jpg
 ---
 
 Please comment

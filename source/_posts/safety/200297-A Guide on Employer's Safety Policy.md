@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200297'
-cover: /universe/Safety/Cover/Labour_Dept/SafetyPolicy.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SafetyPolicy.jpg
 ---
 
 僱主安全政策指南

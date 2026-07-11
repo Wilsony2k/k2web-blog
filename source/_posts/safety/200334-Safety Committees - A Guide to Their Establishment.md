@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200334'
-cover: /universe/Safety/Cover/Labour_Dept/committee.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/committee.jpg
 ---
 
 安全委員會的設立及運作指南

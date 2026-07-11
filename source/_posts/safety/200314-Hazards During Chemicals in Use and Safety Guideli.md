@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200314'
-cover: /universe/Safety/Cover/Labour_Dept/Chemicals.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Chemicals.jpg
 ---
 
 化學品使用過程的危險及安全指南

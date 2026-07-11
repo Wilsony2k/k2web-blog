@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200241'
-cover: /universe/Safety/Cover/Labour_Dept/approved_method_asbestos.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/approved_method_asbestos.jpg
 ---
 
 量度暴露於空氣中石棉的暴露量的認可方法 [第964號公告]

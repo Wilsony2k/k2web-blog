@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200368'
-cover: /universe/Safety/Cover/Labour_Dept/joint_notice_vehicle_repair_workshop.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/joint_notice_vehicle_repair_workshop.jpg
 ---
 
 設於用作居住用途建築物的汽車修理店舖的安全要求

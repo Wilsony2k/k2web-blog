@@ -9,7 +9,7 @@ tags:
 - Collapse of a metal gate - fatal
 - Lesson Learnt
 card_id: 000008
-cover: /universe/Safety/Cover/safety_0008.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0008.jpg
 ---
 
 Please comment

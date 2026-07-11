@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200233'
-cover: /universe/Safety/Cover/Labour_Dept/GOM.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/GOM.jpg
 ---
 
 機械的防護及操作手冊

@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200215'
-cover: /universe/Safety/Cover/Labour_Dept/cutting.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/cutting.jpg
 ---
 
 工廠及工業經營(氣體焊接及火焰切割)規例簡介

@@ -8,7 +8,7 @@ tags:
 - Heat Stroke at Work
 - 工作暑熱警告
 card_id: '000023'
-cover: /universe/Safety/Cover/safety_0023.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0023.jpg
 ---
 
 Please comment

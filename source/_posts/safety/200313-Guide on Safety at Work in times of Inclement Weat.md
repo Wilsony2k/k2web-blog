@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200313'
-cover: /universe/Safety/Cover/Labour_Dept/InclementWeather.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/InclementWeather.jpg
 ---
 
 惡劣天氣下的工作安全指南

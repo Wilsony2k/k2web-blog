@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200203'
-cover: /universe/Safety/Cover/Labour_Dept/RM_Factories.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/RM_Factories.jpg
 ---
 
 工廠視察報告參閱手冊

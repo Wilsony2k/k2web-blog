@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200333'
-cover: /universe/Safety/Cover/Labour_Dept/PPE.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/PPE.jpg
 ---
 
 工作安全 - 個人防護衣物

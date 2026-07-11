@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200332'
-cover: /universe/Safety/Cover/Labour_Dept/PersonalProtectiveEquipment_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/PersonalProtectiveEquipment_eng.jpg
 ---
 
 工作安全 個人防護裝備簡介

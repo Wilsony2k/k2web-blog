@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200329'
-cover: /universe/Safety/Cover/Labour_Dept/Safe_Work_in_Confined_Spaces.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Safe_Work_in_Confined_Spaces.jpg
 ---
 
 密閉空間的工作安全

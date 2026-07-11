@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200374'
-cover: /universe/Safety/Cover/Labour_Dept/TOSp_Chi.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/TOSp_Chi.jpg
 ---
 
 防墮裝備穩又妥 吊棚工作免出錯

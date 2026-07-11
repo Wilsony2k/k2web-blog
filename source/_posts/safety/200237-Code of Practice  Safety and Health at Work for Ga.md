@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200237'
-cover: /universe/Safety/Cover/Labour_Dept/welding2.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/welding2.jpg
 ---
 
 工作守則：氣體焊接及火焰切割工作的安全與健康

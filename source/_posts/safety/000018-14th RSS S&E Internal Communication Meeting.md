@@ -7,7 +7,7 @@ categories:
 tags:
 - Safety news sharing
 card_id: 000018
-cover: /universe/Safety/Cover/safety_0018.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0018.jpg
 ---
 
 Please comment

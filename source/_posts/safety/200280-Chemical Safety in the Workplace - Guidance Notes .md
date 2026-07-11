@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200280'
-cover: /universe/Safety/Cover/Labour_Dept/GN-FL.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/GN-FL.jpg
 ---
 
 工作指南：工作安全(臨時支架 ─ 防止倒塌)

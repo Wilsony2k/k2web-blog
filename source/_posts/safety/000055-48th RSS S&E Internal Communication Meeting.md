@@ -7,7 +7,7 @@ categories:
 tags:
 - Fire Safety
 card_id: '000055'
-cover: /universe/Safety/Cover/safety_0055.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0055.jpg
 ---
 
 Please comment

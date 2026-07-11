@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200267'
-cover: /universe/Safety/Cover/Labour_Dept/isolation_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/isolation_eng.jpg
 ---
 
 安全隔離電源工作指引

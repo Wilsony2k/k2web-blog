@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200227'
-cover: /universe/Safety/Cover/Labour_Dept/PersonsEmployed.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/PersonsEmployed.jpg
 ---
 
 工廠及工業經營條例(第6B條)簡介 － 受僱的人的一般責任

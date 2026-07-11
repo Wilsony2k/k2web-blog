@@ -7,7 +7,7 @@ categories:
 tags:
 - TBM Silo
 card_id: '000007'
-cover: /universe/Safety/Cover/safety_0007.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0007.jpg
 ---
 
 Please comment

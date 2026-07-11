@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200336'
-cover: /universe/Safety/Cover/Labour_Dept/SafetyGuideBambooScaffolding.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SafetyGuideBambooScaffolding.jpg
 ---
 
 竹棚架工作安全簡介

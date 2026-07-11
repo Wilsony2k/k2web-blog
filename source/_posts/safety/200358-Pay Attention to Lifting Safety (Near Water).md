@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200358'
-cover: /universe/Safety/Cover/Labour_Dept/LiftingSafety_TC.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/LiftingSafety_TC.jpg
 ---
 
 吊運安全勿分心(岸邊)

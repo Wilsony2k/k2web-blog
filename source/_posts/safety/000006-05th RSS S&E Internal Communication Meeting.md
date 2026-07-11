@@ -7,7 +7,7 @@ categories:
 tags:
 - F&E- Mosquito 食環
 card_id: '000006'
-cover: /universe/Safety/Cover/safety_0006.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0006.jpg
 ---
 
 Please comment

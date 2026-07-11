@@ -7,7 +7,7 @@ categories:
 tags:
 - None
 card_id: '000012'
-cover: /universe/Safety/Cover/safety_0012.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0012.jpg
 ---
 
 Please comment

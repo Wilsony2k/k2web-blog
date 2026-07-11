@@ -7,7 +7,7 @@ categories:
 tags:
 - Working at Height
 card_id: '100022'
-cover: /universe/Safety/Cover/safety_1022.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1022.jpg
 ---
 
 Please comment

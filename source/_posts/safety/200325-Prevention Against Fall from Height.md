@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200325'
-cover: /universe/Safety/Cover/Labour_Dept/FallFromHeight_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/FallFromHeight_eng.jpg
 ---
 
 慎防從高處墮下

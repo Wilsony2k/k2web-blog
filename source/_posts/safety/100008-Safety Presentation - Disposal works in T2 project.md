@@ -7,7 +7,7 @@ categories:
 tags:
 - Disposal works
 card_id: '100008'
-cover: /universe/Safety/Cover/safety_1008.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1008.jpg
 ---
 
 Please comment

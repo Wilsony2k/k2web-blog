@@ -8,7 +8,7 @@ categories:
 tags:
 - Fire Safety
 card_id: 000039
-cover: /universe/Safety/Cover/safety_0039.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0039.jpg
 ---
 
 Please comment

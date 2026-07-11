@@ -8,7 +8,7 @@ categories:
 tags:
 - Noise Control
 card_id: '900005'
-cover: /universe/Safety/Cover/safety_9005.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_9005.jpg
 ---
 
 Please comment

@@ -8,7 +8,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200260'
-cover: /universe/Safety/Cover/Labour_Dept/Corrigendum_to_GN_Safety_Helmet_eng.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Corrigendum_to_GN_Safety_Helmet_eng.jpg
 ---
 
 安全帽的揀選、使用及保養指引(第3 版) 更正對照表

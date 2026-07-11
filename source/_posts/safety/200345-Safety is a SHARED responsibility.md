@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200345'
-cover: /universe/Safety/Cover/Labour_Dept/SHARED.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SHARED.jpg
 ---
 
 推廣安全 勞資同心 實踐約章 成果共享

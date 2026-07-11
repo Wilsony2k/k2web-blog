@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200223'
-cover: /universe/Safety/Cover/Labour_Dept/SFLReg.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/SFLReg.jpg
 ---
 
 工廠及工業經營(易燃液體的噴塗)規例簡介

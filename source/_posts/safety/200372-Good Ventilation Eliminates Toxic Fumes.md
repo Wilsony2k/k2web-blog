@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200372'
-cover: /universe/Safety/Cover/Labour_Dept/Ventilation-OSH-Poster_2020_06_R2.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Ventilation-OSH-Poster_2020_06_R2.jpg
 ---
 
 通風抽氣做得好 毒煙消除健康保

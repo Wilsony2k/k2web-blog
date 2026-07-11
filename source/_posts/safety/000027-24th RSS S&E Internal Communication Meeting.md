@@ -7,7 +7,7 @@ categories:
 tags:
 - Site Safety Cycle
 card_id: '000027'
-cover: /universe/Safety/Cover/safety_0027.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0027.jpg
 ---
 
 Please comment

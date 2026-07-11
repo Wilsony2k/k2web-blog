@@ -7,7 +7,7 @@ categories:
 tags:
 - 工作守則
 card_id: '200247'
-cover: /universe/Safety/Cover/Labour_Dept/mss.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/mss.jpg
 ---
 
 金屬棚架工作安全守則

@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200304'
-cover: /universe/Safety/Cover/Labour_Dept/checklist.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/checklist.jpg
 ---
 
 建築地盤工作安全及健康事項查核表

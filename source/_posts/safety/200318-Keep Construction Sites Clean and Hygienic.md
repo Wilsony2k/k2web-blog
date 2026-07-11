@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200318'
-cover: /universe/Safety/Cover/Labour_Dept/Hygieneleaflet.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Hygieneleaflet.jpg
 ---
 
 保持建築地盤清潔衞生

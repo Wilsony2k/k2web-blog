@@ -9,7 +9,7 @@ tags:
 - Working at Height
 - Metal Scaffolding Safety
 card_id: '000067'
-cover: /universe/Safety/Cover/safety_0067.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0067.jpg
 ---
 
 Please comment

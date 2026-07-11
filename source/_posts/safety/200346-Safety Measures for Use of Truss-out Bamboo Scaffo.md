@@ -7,7 +7,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200346'
-cover: /universe/Safety/Cover/Labour_Dept/TOS_en.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/TOS_en.jpg
 ---
 
 使用「狗臂架」懸空式棚架的安全措施

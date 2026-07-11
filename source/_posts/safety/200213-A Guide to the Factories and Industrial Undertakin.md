@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200213'
-cover: /universe/Safety/Cover/Labour_Dept/Electricity.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Electricity.jpg
 ---
 
 工廠及工業經營(電力)規例簡介

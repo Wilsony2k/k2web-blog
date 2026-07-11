@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200256'
-cover: /universe/Safety/Cover/Labour_Dept/Fire_Safety_at_Workplaces_en.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/Fire_Safety_at_Workplaces_en.jpg
 ---
 
 工作地點防火指引

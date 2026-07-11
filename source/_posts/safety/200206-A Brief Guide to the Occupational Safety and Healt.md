@@ -7,7 +7,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200206'
-cover: /universe/Safety/Cover/Labour_Dept/OSHO.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/OSHO.jpg
 ---
 
 職業安全及健康條例簡介

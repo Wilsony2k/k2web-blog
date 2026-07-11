@@ -7,7 +7,7 @@ categories:
 tags:
 - First Aid
 card_id: '900014'
-cover: /universe/Safety/Cover/safety_9014.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_9014.jpg
 ---
 
 Please comment

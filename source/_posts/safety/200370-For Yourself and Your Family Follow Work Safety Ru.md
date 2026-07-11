@@ -7,7 +7,7 @@ categories:
 tags:
 - 海報告示
 card_id: '200370'
-cover: /universe/Safety/Cover/Labour_Dept/hkl.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/hkl.jpg
 ---
 
 為家人　齊努力　做好職業安全

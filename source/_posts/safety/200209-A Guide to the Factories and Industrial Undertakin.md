@@ -8,7 +8,7 @@ categories:
 tags:
 - 法例簡介
 card_id: '200209'
-cover: /universe/Safety/Cover/Labour_Dept/carcin.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/carcin.jpg
 ---
 
 工廠及工業經營(可致癌物質)規例簡介

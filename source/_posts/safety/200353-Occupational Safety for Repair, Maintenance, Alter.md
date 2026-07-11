@@ -8,7 +8,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200353'
-cover: /universe/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_O_Tenants_en.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_O_Tenants_en.jpg
 ---
 
 裝修及維修工程的職業安全 - 商用及住宅單位業主及租戶須知

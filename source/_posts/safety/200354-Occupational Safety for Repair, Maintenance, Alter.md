@@ -8,7 +8,7 @@ categories:
 tags:
 - 其他指南
 card_id: '200354'
-cover: /universe/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_OCs_en.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/RMAA_Safety_Hints_for_OCs_en.jpg
 ---
 
 裝修及維修工程的職業安全 - 業主立案法團須知

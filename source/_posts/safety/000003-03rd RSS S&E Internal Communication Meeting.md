@@ -9,7 +9,7 @@ tags:
 - CEDD Audit
 - Lesson Learnt
 card_id: '000003'
-cover: /universe/Safety/Cover/safety_0003.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0003.jpg
 ---
 
 Please comment

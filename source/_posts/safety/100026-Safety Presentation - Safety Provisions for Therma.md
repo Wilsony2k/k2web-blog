@@ -8,7 +8,7 @@ categories:
 tags:
 - Work at height
 card_id: '100026'
-cover: /universe/Safety/Cover/safety_1026.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1026.jpg
 ---
 
 Please comment

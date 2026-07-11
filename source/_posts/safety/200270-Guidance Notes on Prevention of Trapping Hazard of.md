@@ -7,7 +7,7 @@ categories:
 tags:
 - 安全指引
 card_id: '200270'
-cover: /universe/Safety/Cover/Labour_Dept/taillift_gn_en.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/Labour_Dept/taillift_gn_en.jpg
 ---
 
 工作安全指引 ─ 手工電弧焊的觸電危險

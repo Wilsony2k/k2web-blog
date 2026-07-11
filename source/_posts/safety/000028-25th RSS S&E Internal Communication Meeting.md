@@ -7,7 +7,7 @@ categories:
 tags:
 - Reporting Procedures
 card_id: 000028
-cover: /universe/Safety/Cover/safety_0028.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0028.jpg
 ---
 
 Please comment

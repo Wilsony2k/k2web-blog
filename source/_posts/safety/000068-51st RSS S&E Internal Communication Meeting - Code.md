@@ -9,7 +9,7 @@ tags:
 - Suspended Working Platforms
 - Working at Height
 card_id: 000068
-cover: /universe/Safety/Cover/safety_0068.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_0068.jpg
 ---
 
 Please comment

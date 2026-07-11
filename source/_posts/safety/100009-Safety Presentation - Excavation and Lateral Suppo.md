@@ -12,7 +12,7 @@ tags:
 - IDC
 - Temporary Work
 card_id: '100009'
-cover: /universe/Safety/Cover/safety_1009.jpg
+cover: https://k2image.85200852.xyz/Safety/Cover/safety_1009.jpg
 ---
 
 Please comment
