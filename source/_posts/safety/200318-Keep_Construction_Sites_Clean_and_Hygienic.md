@@ -1,0 +1,21 @@
+---
+title: Keep Construction Sites Clean and Hygienic
+date: 2026-07-29 05:17:00
+categories: [工程安全]
+tags: [安全指南]
+card_id: 200318
+---
+# Keep Construction Sites Clean and Hygienic
+
+> **分類：** Part D : Other Guidebooks | 其他安全指南
+> **來源：** Labour Dept勞工處
+
+保持建築地盤清潔衞生
+
+---
+
+📄 [**下載原始檔案**](https://www.labour.gov.hk/eng/public/os/Hygieneleaflet.pdf)
+
+![預覽](https://k2.85200852.xyz/universe/Safety/Cover/Labour_Dept/Hygieneleaflet.jpg)
+
+*K2-Web 安全資料庫 · 編號 200318*

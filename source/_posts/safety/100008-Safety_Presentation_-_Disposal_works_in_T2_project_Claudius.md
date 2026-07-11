@@ -1,0 +1,23 @@
+---
+title: "Safety Presentation - Disposal works in T2 project Claudius Tse"
+date: 2026-06-25 10:22:00
+categories: [工程安全]
+tags: 
+  - 安全培訓
+  - Disposal works
+card_id: 100008
+---
+# Safety Presentation - Disposal works in T2 project Claudius Tse
+
+> **分類：** ARE Presentation
+> **來源：** ARE Presentation
+
+工程安全 — ARE Presentation（ARE Presentation）
+
+---
+
+📄 [**下載原始檔案**](https://k2.85200852.xyz/universe/Safety/Files/PDF/Safety Presentation ARE25 CTE.pdf)
+
+![預覽](https://k2.85200852.xyz/universe/Safety/Cover/safety_1008.jpg)
+
+*K2-Web 安全資料庫 · 編號 100008*

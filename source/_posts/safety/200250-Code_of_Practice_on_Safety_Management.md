@@ -1,0 +1,21 @@
+---
+title: Code of Practice on Safety Management
+date: 2026-07-25 09:09:00
+categories: [工程安全]
+tags: [工作守則]
+card_id: 200250
+---
+# Code of Practice on Safety Management
+
+> **分類：** Part B : Codes of Practice | 工作守則 | CoP
+> **來源：** Labour Dept勞工處
+
+安全管理工作守則
+
+---
+
+📄 [**下載原始檔案**](https://www.labour.gov.hk/eng/public/os/manage.pdf)
+
+![預覽](https://k2.85200852.xyz/universe/Safety/Cover/Labour_Dept/manage.jpg)
+
+*K2-Web 安全資料庫 · 編號 200250*

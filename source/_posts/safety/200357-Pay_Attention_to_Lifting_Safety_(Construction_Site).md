@@ -1,0 +1,21 @@
+---
+title: Pay Attention to Lifting Safety (Construction Site)
+date: 2026-08-04 20:56:00
+categories: [工程安全]
+tags: [海報告示]
+card_id: 200357
+---
+# Pay Attention to Lifting Safety (Construction Site)
+
+> **分類：** Part E : Posters / Notices | 海報 / 告示
+> **來源：** Labour Dept勞工處
+
+吊運安全勿分心(建築地盤)
+
+---
+
+📄 [**下載原始檔案**](https://www.labour.gov.hk/common/public/pdf/os/E/LiftingSafety_SC.jpg)
+
+![預覽](https://k2.85200852.xyz/universe/Safety/Cover/Labour_Dept/LiftingSafety_SC.jpg)
+
+*K2-Web 安全資料庫 · 編號 200357*
