@@ -1,0 +1,10 @@
+---
+title: "Secure Fork-heads and Wooden Wedges Properly for Even Support"
+date: 2026-04-27
+categories: [標準規格, Part]
+tags: ["Part E : Posters / Notices | 海報 / 告示"]
+uid: "2026-04-27-secure-fork-heads-and-wooden-wedges-properly-for-even-support"
+link: "https://k2image.85200852.xyz/universe/Safety/Files/Labour_Dept/safety_poster_1.jpg"
+---
+
+叉頭木楔要放妥 均勻承托莫粗疏

@@ -1,0 +1,10 @@
+---
+title: "Guidance Notes on Fire Safety at Workplaces"
+date: 2026-04-27
+categories: [標準規格, Part]
+tags: ["Part C : Guidance Notes | 安全指引"]
+uid: "2026-04-27-guidance-notes-on-fire-safety-at-workplaces"
+link: "https://k2image.85200852.xyz/universe/Safety/Files/Labour_Dept/Fire_Safety_at_Workplaces_en.pdf"
+---
+
+工作地點防火指引

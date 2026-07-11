@@ -1,0 +1,10 @@
+---
+title: "Plastics piping systems for non-pressure underground drainage and sewerage ????? unplasticized poly(vinyl chloride)(PVC-U)"
+date: 2025-10-06
+categories: [標準規格, GS]
+tags: ["GS 2020"]
+uid: "#100365"
+link: "https://k2image.85200852.xyz/universe/Standard_and_Specification/Files/BS EN 13598-1-2010.pdf"
+---
+
+to be review

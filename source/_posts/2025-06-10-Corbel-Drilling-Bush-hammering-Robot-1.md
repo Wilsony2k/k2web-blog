@@ -1,0 +1,10 @@
+---
+title: "Corbel Drilling & Bush-hammering Robot"
+date: 2025-06-10
+categories: [標準規格, Section]
+tags: ["Robot"]
+uid: "#000987"
+link: "https://k2image.85200852.xyz/universe/Method_Statement/Files/I-17905.pdf"
+---
+
+Corbel Drilling & Bush-hammering Robot

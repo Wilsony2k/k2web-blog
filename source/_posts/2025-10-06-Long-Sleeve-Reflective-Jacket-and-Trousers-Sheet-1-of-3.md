@@ -1,0 +1,8 @@
+---
+title: "Long Sleeve Reflective Jacket and Trousers (Sheet 1 of 3)"
+date: 2025-10-06
+categories: [標準規格, Hyd]
+tags: ["Hyd"]
+uid: "2025-10-06-long-sleeve-reflective-jacket-and-trousers-(sheet-1-of-3)"
+link: "https://k2image.85200852.xyz/universe/gov_standards/Files/Drawings/HYD_files/Section6/h6173.pdf"
+---

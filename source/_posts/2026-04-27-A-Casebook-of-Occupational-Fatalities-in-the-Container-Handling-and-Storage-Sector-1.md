@@ -1,0 +1,10 @@
+---
+title: "A Casebook of Occupational Fatalities in the Container Handling and Storage Sector"
+date: 2026-04-27
+categories: [標準規格, Part]
+tags: ["Part D : Other Guidebooks | 其他安全指南"]
+uid: "2026-04-27-a-casebook-of-occupational-fatalities-in-the-container-handling-and-storage-sector"
+link: "https://k2image.85200852.xyz/universe/Safety/Files/Labour_Dept/CSSCB.pdf"
+---
+
+貨櫃搬運及倉庫業職業意外致命個案集
