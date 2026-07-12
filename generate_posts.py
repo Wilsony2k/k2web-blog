@@ -25,8 +25,12 @@ def extract_date(date_str):
     # If none worked, return None
     return None
 
+def sanitize_url_path(path):
+    """Replace spaces with _ in URL paths to match R2 filenames."""
+    return path.replace(' ', '_').replace('+', '_').replace('%20', '_')
+
 def build_link(item):
-    """Build the link URL based on item data."""
+    """Build the link URL based on item data. Path spaces replaced with _."""
     link = item.get('link', '').strip()
     link_address = item.get('link_address', '').strip()
     file_path = item.get('file_path', '').strip()
@@ -42,15 +46,15 @@ def build_link(item):
         # Remove leading slash if present
         if link.startswith('/'):
             link = link[1:]
-        return f'https://k2image.85200852.xyz/{link}'
+        return f'https://k2image.85200852.xyz/{sanitize_url_path(link)}'
     if link_address and not link_address.startswith('http'):
         if link_address.startswith('/'):
             link_address = link_address[1:]
-        return f'https://k2image.85200852.xyz/{link_address}'
+        return f'https://k2image.85200852.xyz/{sanitize_url_path(link_address)}'
     if file_path and not file_path.startswith('http'):
         if file_path.startswith('/'):
             file_path = file_path[1:]
-        return f'https://k2image.85200852.xyz/{file_path}'
+        return f'https://k2image.85200852.xyz/{sanitize_url_path(file_path)}'
     
     return ''  # No valid link
 
